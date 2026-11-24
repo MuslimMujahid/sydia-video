@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "skills": {
+    "instagram-marketing": {
+      "source": "sergebulaev/instagram-skills",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "42ea8eb096c7cec834cf067ca03b1922e665a8f2498c7e866d80dd3f6a8c0f1e"
+    },
+    "remotion-best-practices": {
+      "source": "remotion-dev/skills",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-best-practices/SKILL.md",
+      "computedHash": "a3140396ca08967abb24ea478b7ba6cc2881c189dc7de1ffd3f376004c76858b"
+    },
+    "remotion-create": {
+      "source": "remotion-dev/skills",
+      "sourceType": "github",
+      "skillPath": "skills/remotion-create/SKILL.md",
+      "computedHash": "1d8f326604f7dcda518a7d29c0522907e7fa4f050b05ff1b433bb2861384916b"
+    }
+  }
+}

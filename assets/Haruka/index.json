@@ -1,0 +1,3263 @@
+{
+  "character": "Haruka",
+  "image_count": 181,
+  "notes": "Individual images are named by pose and expression. Original singles retain their exact file bytes. Collages are archived in originals/. Crops preserve source RGBA pixels without resizing and mask neighboring poses. Touching cutouts are separated along their narrowest boundary. Crop boxes use Pillow coordinates [left, top, right, bottom]. Numeric suffixes distinguish variants of the same pose.",
+  "original_collages": [
+    {
+      "file": "originals/collage-anime-presentation-expressions.png",
+      "original_filename": "Haruka’s Anime Presentation Expressions-3.png",
+      "sha256": "19dc153f54fbb0da94a5c75a83ad24bb7b7878e0e40c722dfd3c2e74398ed265"
+    },
+    {
+      "file": "originals/collage-eight-expressive-presentation-poses.png",
+      "original_filename": "Haruka’s Eight Expressive Presentation Poses-5.png",
+      "sha256": "809b22b04145e0fb0e1ca105afe838eb7f37506ef39762650cf20ccd3834a204"
+    },
+    {
+      "file": "originals/collage-presentation-sticker-set.png",
+      "original_filename": "Haruka’s Presentation Sticker Set-2.png",
+      "sha256": "5a361d568b4e1379bc5b5cb03739ec1b89bbe2ef8d1cfd012c6d58224fe439f9"
+    },
+    {
+      "file": "originals/collage-smartphone-sticker-set.png",
+      "original_filename": "Anime Girl Smartphone Sticker Set-3.png",
+      "sha256": "2a64e7185702e28b9d0c9ab0d60a77f4471aa57a7ec50baa688cd426fa693302"
+    },
+    {
+      "file": "originals/collage-hoodie-phone-stickers.png",
+      "original_filename": "Anime Hoodie Girl Sticker Sheet-9.png",
+      "sha256": "316b9462ca504c3e3f4060694c9a915b4d9957743e99f518bef4c451c1023e13"
+    },
+    {
+      "file": "originals/collage-phone-mood-stickers.png",
+      "original_filename": "Anime Phone Mood Sticker Sheet-2.png",
+      "sha256": "dae610f0189716241cbe4a90af5dcf082e0126115f286e36c4620596fb62b0eb"
+    },
+    {
+      "file": "originals/collage-smartphone-expression-stickers-06.png",
+      "original_filename": "Anime Smartphone Expression Sticker Sheet-6.png",
+      "sha256": "34bb4d52b923a3b261136d7cea888d2b316a0b14de41486f0e14666ca6ef7d89"
+    },
+    {
+      "file": "originals/collage-smartphone-expression-stickers-08.png",
+      "original_filename": "Anime Smartphone Expression Sticker Sheet-8.png",
+      "sha256": "3631ffcc2ff97a846e9781567d2fe4554b3c4d0a140cc563026732367b6b26f2"
+    },
+    {
+      "file": "originals/collage-smartphone-expressions-grid.png",
+      "original_filename": "Anime Smartphone Expressions Grid-4.png",
+      "sha256": "d1634f371f96afb0b17d740c7c23fc89b5a4f2773bea19303797ac2f76cf2f03"
+    },
+    {
+      "file": "originals/collage-smartphone-sticker-portraits.png",
+      "original_filename": "Anime Smartphone Sticker Girl Portraits-12.png",
+      "sha256": "b4e8ef78cd0734e3398980657ca86804a0a8d783e5deba71580ff3dc5a457d68"
+    },
+    {
+      "file": "originals/collage-expressive-phone-stickers-10.png",
+      "original_filename": "Expressive Anime Phone Sticker Sheet-10.png",
+      "sha256": "447320fff4d107109450d5acb54b63e21ddbc4125c008831ea1b63dd5fb0858a"
+    },
+    {
+      "file": "originals/collage-anime-sticker-pose-collection.png",
+      "original_filename": "Haruka’s Anime Sticker Pose Collection-11.png",
+      "sha256": "180b4f4b80ebdaf9191a978d24da3de4aa686d54659d34f2de9504bb455e3c4d"
+    },
+    {
+      "file": "originals/collage-expressive-phone-stickers-07.png",
+      "original_filename": "Haruka’s Expressive Phone Sticker Set-7.png",
+      "sha256": "430c284f243932d7c861547eb5267e59bf28e3f3231f95c99c08853864e25dc4"
+    },
+    {
+      "file": "originals/collage-expressive-phone-stickers-01.png",
+      "original_filename": "Haruka’s Expressive Phone Sticker Sheet-1.png",
+      "sha256": "88d027c616bcda7dfcc544760c4495c1f6950834e7b9a90b248a7b68a0cfc48e"
+    },
+    {
+      "file": "originals/collage-smartphone-expression-stickers-05.png",
+      "original_filename": "Haruka’s Smartphone Expression Sticker Set-5.png",
+      "sha256": "c078252ab5b007e7138d8dc7a30b9d03b36709b857db0921f88950072ea76419"
+    },
+    {
+      "file": "originals/collage-laptop-work-stickers.png",
+      "original_filename": "Anime Girl Laptop Work Sticker Set.png",
+      "sha256": "741fd0db6c9c9b0a3b12f3a53a4b4ed551f3e7b37e26cffd8f5ace825236b14c"
+    },
+    {
+      "file": "originals/collage-laptop-mood-stickers.png",
+      "original_filename": "Anime Laptop Mood Sticker Sheet.png",
+      "sha256": "aab5b15622b2e1e83f006bb7eff152998dd892c20dd091c095548c1f94e755cb"
+    },
+    {
+      "file": "originals/collage-laptop-workday-trio.png",
+      "original_filename": "Anime Laptop Workday Sticker Trio.png",
+      "sha256": "0f26c94c7334df1e876cf7b24f29969b27783d5db9aa3c00b3b35e97473ce9b1"
+    },
+    {
+      "file": "originals/collage-study-mode-stickers.png",
+      "original_filename": "Anime Study Mode Sticker Sheet.png",
+      "sha256": "24d146ffccd7bdbfe481fffe1642c45a33b1c1c8542440b629a0f28cff2e9274"
+    }
+  ],
+  "images": [
+    {
+      "file": "haruka-both-hands-open-welcoming.png",
+      "label": "Both hands open toward viewer; welcoming smile.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_34_21 AM-3.png",
+      "source": "haruka-both-hands-open-welcoming.png",
+      "source_sha256": "f08c8b2ab4033b53dc49db1b9cd51b88d2464849e479fcfb83cec6d8fdbb4e1f",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "f08c8b2ab4033b53dc49db1b9cd51b88d2464849e479fcfb83cec6d8fdbb4e1f"
+    },
+    {
+      "file": "haruka-both-palms-forward-panicking.png",
+      "label": "Both palms forward panicking.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_48_10 AM-6.png",
+      "source": "haruka-both-palms-forward-panicking.png",
+      "source_sha256": "5ec9d82f75180cdfa3199a9dddd2f56dc1d330802c99c00cf66f935cc320263e",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "5ec9d82f75180cdfa3199a9dddd2f56dc1d330802c99c00cf66f935cc320263e"
+    },
+    {
+      "file": "haruka-both-palms-presenting-laughing.png",
+      "label": "Both palms presenting to the side; laughing with eyes closed.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Presentation Sticker Set-2.png",
+      "source": "originals/collage-presentation-sticker-set.png",
+      "source_sha256": "5a361d568b4e1379bc5b5cb03739ec1b89bbe2ef8d1cfd012c6d58224fe439f9",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        753,
+        0,
+        1170,
+        503
+      ],
+      "width": 417,
+      "height": 503,
+      "content_sha256": "fad4dc083938d3f4e072309c11dd38640c8bcc25ef1399e659d71c3fafce20d9"
+    },
+    {
+      "file": "haruka-both-palms-presenting-smiling-02.png",
+      "label": "Both palms presenting smiling.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_45_36 AM-1.png",
+      "source": "haruka-both-palms-presenting-smiling-02.png",
+      "source_sha256": "85456f71c92e385c2c5ef448f7ccc35fbbc01622e4f61b2da74645c554242618",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "85456f71c92e385c2c5ef448f7ccc35fbbc01622e4f61b2da74645c554242618"
+    },
+    {
+      "file": "haruka-both-palms-presenting-smiling.png",
+      "label": "Both open palms presenting to the side; cheerful smile.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Eight Expressive Presentation Poses-5.png",
+      "source": "originals/collage-eight-expressive-presentation-poses.png",
+      "source_sha256": "809b22b04145e0fb0e1ca105afe838eb7f37506ef39762650cf20ccd3834a204",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        6,
+        0,
+        430,
+        510
+      ],
+      "width": 424,
+      "height": 510,
+      "content_sha256": "d1c2e619a281dd4d6dc78e66c987046d4a95c1bcb425d21011f7ef74e215c0fe"
+    },
+    {
+      "file": "haruka-double-peace-sign-laughing.png",
+      "label": "Both hands making peace signs; laughing with eyes closed.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_33_56 AM-2.png",
+      "source": "haruka-double-peace-sign-laughing.png",
+      "source_sha256": "1646040677de177fb8e0de8ce91042675bdf5ac8765d80fdeb600441c2890b04",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "1646040677de177fb8e0de8ce91042675bdf5ac8765d80fdeb600441c2890b04"
+    },
+    {
+      "file": "haruka-finger-to-chin-thinking.png",
+      "label": "Finger against chin and other arm crossed; thoughtful upward gaze.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_34_00 AM-5.png",
+      "source": "haruka-finger-to-chin-thinking.png",
+      "source_sha256": "5050244bd0e18b5fe25aa3ccd14641a0f1bc6c8f5fb14ea88d140d64948bdff2",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "5050244bd0e18b5fe25aa3ccd14641a0f1bc6c8f5fb14ea88d140d64948bdff2"
+    },
+    {
+      "file": "haruka-finger-to-temple-laughing-with-lightbulb.png",
+      "label": "Finger at temple; laughing with eyes closed and lightbulb symbol.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Eight Expressive Presentation Poses-5.png",
+      "source": "originals/collage-eight-expressive-presentation-poses.png",
+      "source_sha256": "809b22b04145e0fb0e1ca105afe838eb7f37506ef39762650cf20ccd3834a204",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        777,
+        4,
+        1143,
+        511
+      ],
+      "width": 366,
+      "height": 507,
+      "content_sha256": "17a748928928b3faabbe1e49831a984b1722321b8d1cc42ba06f38b16488cc42"
+    },
+    {
+      "file": "haruka-fist-raised-confident.png",
+      "label": "One fist raised and other hand on hip; confident smile.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_34_01 AM-6.png",
+      "source": "haruka-fist-raised-confident.png",
+      "source_sha256": "c83296d46ba28719b1154b8b9ff04f63fdbf0703a9c4d633afe40ce7a51b6283",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "c83296d46ba28719b1154b8b9ff04f63fdbf0703a9c4d633afe40ce7a51b6283"
+    },
+    {
+      "file": "haruka-fist-raised-eyes-closed-smiling-with-sparkles.png",
+      "label": "One fist raised beside face; pleased smile with eyes closed and sparkles.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Eight Expressive Presentation Poses-5.png",
+      "source": "originals/collage-eight-expressive-presentation-poses.png",
+      "source_sha256": "809b22b04145e0fb0e1ca105afe838eb7f37506ef39762650cf20ccd3834a204",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        779,
+        510,
+        1152,
+        1024
+      ],
+      "width": 373,
+      "height": 514,
+      "content_sha256": "3a20dfa293e80ee2571203346d6e735eb747993fa34fa05f2ce6aec507ed7405"
+    },
+    {
+      "file": "haruka-fist-raised-laughing-with-lightbulb.png",
+      "label": "One fist raised beside face; laughing with eyes closed and lightbulb symbol.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Anime Presentation Expressions-3.png",
+      "source": "originals/collage-anime-presentation-expressions.png",
+      "source_sha256": "19dc153f54fbb0da94a5c75a83ad24bb7b7878e0e40c722dfd3c2e74398ed265",
+      "row": 1,
+      "column": 4,
+      "crop_box": [
+        1151,
+        2,
+        1529,
+        512
+      ],
+      "width": 378,
+      "height": 510,
+      "content_sha256": "7ce5a1dc861d6d135c8512004e6da37dc144ddd5eef2885eb1bc1916a202f2ab"
+    },
+    {
+      "file": "haruka-four-fingers-pointing-smiling.png",
+      "label": "Four fingers pointing smiling.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_45_42 AM-6.png",
+      "source": "haruka-four-fingers-pointing-smiling.png",
+      "source_sha256": "43a262b362eaab38aae52857fa81ce12f5e359bc0b369fb3986d141a426a54b0",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "43a262b362eaab38aae52857fa81ce12f5e359bc0b369fb3986d141a426a54b0"
+    },
+    {
+      "file": "haruka-gaming-on-phone-angry-02.png",
+      "label": "Gaming on phone angry.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Smartphone Expression Sticker Set-5.png",
+      "source": "originals/collage-smartphone-expression-stickers-05.png",
+      "source_sha256": "c078252ab5b007e7138d8dc7a30b9d03b36709b857db0921f88950072ea76419",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        0,
+        519,
+        338,
+        1017
+      ],
+      "width": 338,
+      "height": 498,
+      "content_sha256": "e660ced161d1c1f7dd88bcedae4a768fa83c35aeec3570e67f3a31504f06cdd3"
+    },
+    {
+      "file": "haruka-gaming-on-phone-angry.png",
+      "label": "Gaming on phone angry.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expression Sticker Sheet-8.png",
+      "source": "originals/collage-smartphone-expression-stickers-08.png",
+      "source_sha256": "3631ffcc2ff97a846e9781567d2fe4554b3c4d0a140cc563026732367b6b26f2",
+      "row": 1,
+      "column": 5,
+      "crop_box": [
+        1199,
+        12,
+        1536,
+        508
+      ],
+      "width": 337,
+      "height": 496,
+      "content_sha256": "93edc09fc7a70acb4bdd855df291929e31927e373948c3ecbd6ba5c6c0e5c686"
+    },
+    {
+      "file": "haruka-gaming-on-phone-focused-02.png",
+      "label": "Gaming on phone focused.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Hoodie Girl Sticker Sheet-9.png",
+      "source": "originals/collage-hoodie-phone-stickers.png",
+      "source_sha256": "316b9462ca504c3e3f4060694c9a915b4d9957743e99f518bef4c451c1023e13",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        602,
+        25,
+        933,
+        511
+      ],
+      "width": 331,
+      "height": 486,
+      "content_sha256": "d2a4233c457d7d71be3c8bdcb60f4ee509ca2745305330130d7c0d8bd6aed3cc"
+    },
+    {
+      "file": "haruka-gaming-on-phone-focused.png",
+      "label": "Gaming on phone focused.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Girl Smartphone Sticker Set-3.png",
+      "source": "originals/collage-smartphone-sticker-set.png",
+      "source_sha256": "2a64e7185702e28b9d0c9ab0d60a77f4471aa57a7ec50baa688cd426fa693302",
+      "row": 2,
+      "column": 5,
+      "crop_box": [
+        1213,
+        513,
+        1536,
+        1021
+      ],
+      "width": 323,
+      "height": 508,
+      "content_sha256": "7a501c0d5de5615193c46362d8a1d42ffd545e089b78c05b008458876a3366b5"
+    },
+    {
+      "file": "haruka-gaming-on-phone-playful-01.png",
+      "label": "Gaming on phone playful.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Anime Sticker Pose Collection-11.png",
+      "source": "originals/collage-anime-sticker-pose-collection.png",
+      "source_sha256": "180b4f4b80ebdaf9191a978d24da3de4aa686d54659d34f2de9504bb455e3c4d",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        615,
+        522,
+        938,
+        1002
+      ],
+      "width": 323,
+      "height": 480,
+      "content_sha256": "ee4b348cdadd5d110cb94c22d28860c38a5a9549a2a2f11a63a7852a449a5ae8"
+    },
+    {
+      "file": "haruka-gaming-on-phone-playful-02.png",
+      "label": "Gaming on phone playful.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Expressive Phone Sticker Sheet-1.png",
+      "source": "originals/collage-expressive-phone-stickers-01.png",
+      "source_sha256": "88d027c616bcda7dfcc544760c4495c1f6950834e7b9a90b248a7b68a0cfc48e",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        589,
+        543,
+        925,
+        1005
+      ],
+      "width": 336,
+      "height": 462,
+      "content_sha256": "4ed94f747b734fd788e8cbae38645ca92bd5fc3bf112457b16946f0903e75a6b"
+    },
+    {
+      "file": "haruka-gaming-on-phone-serious.png",
+      "label": "Gaming on phone serious.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Sticker Girl Portraits-12.png",
+      "source": "originals/collage-smartphone-sticker-portraits.png",
+      "source_sha256": "b4e8ef78cd0734e3398980657ca86804a0a8d783e5deba71580ff3dc5a457d68",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        510,
+        633,
+        799,
+        1115
+      ],
+      "width": 289,
+      "height": 482,
+      "content_sha256": "bbabb44212b1e339555c0a52982aaed29748a49ba64776f04c3399a33c0eba4e"
+    },
+    {
+      "file": "haruka-gesturing-sideways-explaining.png",
+      "label": "Both hands gesturing to the side; open-mouth explaining expression.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Anime Presentation Expressions-3.png",
+      "source": "originals/collage-anime-presentation-expressions.png",
+      "source_sha256": "19dc153f54fbb0da94a5c75a83ad24bb7b7878e0e40c722dfd3c2e74398ed265",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        755,
+        0,
+        1189,
+        512
+      ],
+      "width": 434,
+      "height": 512,
+      "content_sha256": "7f35d1713cb09e03e970f0fa83a881ebf4a570ea8e74e0cbd6c5cbd53bccfd5a"
+    },
+    {
+      "file": "haruka-hand-on-chest-eyes-closed-smiling.png",
+      "label": "Hand on chest; warm smile with eyes closed and emphasis marks.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Anime Presentation Expressions-3.png",
+      "source": "originals/collage-anime-presentation-expressions.png",
+      "source_sha256": "19dc153f54fbb0da94a5c75a83ad24bb7b7878e0e40c722dfd3c2e74398ed265",
+      "row": 2,
+      "column": 4,
+      "crop_box": [
+        1159,
+        501,
+        1518,
+        1024
+      ],
+      "width": 359,
+      "height": 523,
+      "content_sha256": "3a2f9e320dce509b6dbc9de09cbd5e7d3be13c21542996b8f3d7de62e376f3d5"
+    },
+    {
+      "file": "haruka-hand-on-chin-puzzled-with-question-mark-02.png",
+      "label": "Hand on chin and other arm crossed; puzzled upward gaze and question mark.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Eight Expressive Presentation Poses-5.png",
+      "source": "originals/collage-eight-expressive-presentation-poses.png",
+      "source_sha256": "809b22b04145e0fb0e1ca105afe838eb7f37506ef39762650cf20ccd3834a204",
+      "row": 1,
+      "column": 4,
+      "crop_box": [
+        1163,
+        6,
+        1519,
+        511
+      ],
+      "width": 356,
+      "height": 505,
+      "content_sha256": "1d8f7ab934b0f1c9273251c739069c550e06d8590f415bf30daf123179ac891f"
+    },
+    {
+      "file": "haruka-hand-on-chin-puzzled-with-question-mark-03.png",
+      "label": "Hand on chin and other arm crossed; puzzled expression with question mark.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Presentation Sticker Set-2.png",
+      "source": "originals/collage-presentation-sticker-set.png",
+      "source_sha256": "5a361d568b4e1379bc5b5cb03739ec1b89bbe2ef8d1cfd012c6d58224fe439f9",
+      "row": 1,
+      "column": 4,
+      "crop_box": [
+        1166,
+        0,
+        1521,
+        504
+      ],
+      "width": 355,
+      "height": 504,
+      "content_sha256": "ad00308390c545443e91ab96b857cbfbb4f7bdd4cff0f1d05101eefbda611717"
+    },
+    {
+      "file": "haruka-hand-on-chin-puzzled-with-question-mark.png",
+      "label": "Hand on chin, other arm crossed; puzzled expression and question mark.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Anime Presentation Expressions-3.png",
+      "source": "originals/collage-anime-presentation-expressions.png",
+      "source_sha256": "19dc153f54fbb0da94a5c75a83ad24bb7b7878e0e40c722dfd3c2e74398ed265",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        20,
+        503,
+        372,
+        1024
+      ],
+      "width": 352,
+      "height": 521,
+      "content_sha256": "aeaa004d813eaa57f59e3451c348bc75e199fec2c73007b5c24d39f10f65fd1e"
+    },
+    {
+      "file": "haruka-hand-on-chin-thinking.png",
+      "label": "Hand on chin and other arm crossed; thoughtful upward gaze.",
+      "kind": "original-individual",
+      "original_filename": "Thoughtful Girl in Yellow Hoodie-9.png",
+      "source": "haruka-hand-on-chin-thinking.png",
+      "source_sha256": "88676a240bb3249834d5c09fc1d8c0419ec70b389a816cc9f32b347348d3b190",
+      "width": 1254,
+      "height": 1254,
+      "content_sha256": "88676a240bb3249834d5c09fc1d8c0419ec70b389a816cc9f32b347348d3b190"
+    },
+    {
+      "file": "haruka-hand-over-mouth-surprised-02.png",
+      "label": "Hand over mouth surprised.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_48_06 AM-2.png",
+      "source": "haruka-hand-over-mouth-surprised-02.png",
+      "source_sha256": "58b484b2bcb6ecea7cf7af6ad08ef9e49fab21b48421f9449db67841e943ab46",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "58b484b2bcb6ecea7cf7af6ad08ef9e49fab21b48421f9449db67841e943ab46"
+    },
+    {
+      "file": "haruka-hand-over-mouth-surprised.png",
+      "label": "One hand over mouth and the other raised; wide-eyed surprise.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_33_58 AM-3.png",
+      "source": "haruka-hand-over-mouth-surprised.png",
+      "source_sha256": "4d6a3e3fb48b26cfb249fc9b48c0967f2c366f503ed833ddd54e597077b14a5a",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "4d6a3e3fb48b26cfb249fc9b48c0967f2c366f503ed833ddd54e597077b14a5a"
+    },
+    {
+      "file": "haruka-hand-writing.png",
+      "label": "Close-up of a hand in a yellow sleeve holding a pen in a writing grip.",
+      "kind": "original-individual",
+      "original_filename": "haruka-hand-writing.png",
+      "source": "haruka-hand-writing.png",
+      "source_sha256": "c87a6cf986e86db0ff5f5e8ef715ce48af053c53f8768146deba8836568a3417",
+      "width": 1254,
+      "height": 1254,
+      "content_sha256": "c87a6cf986e86db0ff5f5e8ef715ce48af053c53f8768146deba8836568a3417"
+    },
+    {
+      "file": "haruka-hands-clasped-worried.png",
+      "label": "Hands clasped at chest; worried, pleading expression.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_33_58 AM-4.png",
+      "source": "haruka-hands-clasped-worried.png",
+      "source_sha256": "e3b2ae10a07042f5c07c687ca581499e2b0389da4ecf74894d2524fc27de2c87",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "e3b2ae10a07042f5c07c687ca581499e2b0389da4ecf74894d2524fc27de2c87"
+    },
+    {
+      "file": "haruka-holding-hoodie-strings-shy.png",
+      "label": "Holding hoodie strings near chest; blushing, shy sideways smile.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_34_01 AM-7.png",
+      "source": "haruka-holding-hoodie-strings-shy.png",
+      "source_sha256": "c732f3e19b6a4199022f58f99397406476e592e4ea611767b97e0dea965ebbbe",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "c732f3e19b6a4199022f58f99397406476e592e4ea611767b97e0dea965ebbbe"
+    },
+    {
+      "file": "haruka-holding-phone-blushing-shy.png",
+      "label": "Holding phone blushing shy.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Sticker Girl Portraits-12.png",
+      "source": "originals/collage-smartphone-sticker-portraits.png",
+      "source_sha256": "b4e8ef78cd0734e3398980657ca86804a0a8d783e5deba71580ff3dc5a457d68",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        0,
+        628,
+        285,
+        1115
+      ],
+      "width": 285,
+      "height": 487,
+      "content_sha256": "38d5cc0e66f2d5e8b1535d17d456aa80c3e8e051dfe060b35e946f0e37057035"
+    },
+    {
+      "file": "haruka-holding-phone-cheek-on-hand-eyes-closed-smiling-02.png",
+      "label": "Holding phone cheek on hand eyes closed smiling.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Expressive Phone Sticker Sheet-1.png",
+      "source": "originals/collage-expressive-phone-stickers-01.png",
+      "source_sha256": "88d027c616bcda7dfcc544760c4495c1f6950834e7b9a90b248a7b68a0cfc48e",
+      "row": 1,
+      "column": 5,
+      "crop_box": [
+        1207,
+        33,
+        1536,
+        500
+      ],
+      "width": 329,
+      "height": 467,
+      "content_sha256": "212f4f4ba127f18bf4d87643da0d63343562062e9ffb9d1d68921945a7e61967"
+    },
+    {
+      "file": "haruka-holding-phone-cheek-on-hand-eyes-closed-smiling.png",
+      "label": "Holding phone cheek on hand eyes closed smiling.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expressions Grid-4.png",
+      "source": "originals/collage-smartphone-expressions-grid.png",
+      "source_sha256": "d1634f371f96afb0b17d740c7c23fc89b5a4f2773bea19303797ac2f76cf2f03",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        499,
+        637,
+        778,
+        1073
+      ],
+      "width": 279,
+      "height": 436,
+      "content_sha256": "334ca51273ec5cd792a8721414563adbc907a9b546254f033b81ba695adb0c0a"
+    },
+    {
+      "file": "haruka-holding-phone-cheek-on-hand-listening-to-earbuds.png",
+      "label": "Holding phone cheek on hand listening to earbuds.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expression Sticker Sheet-8.png",
+      "source": "originals/collage-smartphone-expression-stickers-08.png",
+      "source_sha256": "3631ffcc2ff97a846e9781567d2fe4554b3c4d0a140cc563026732367b6b26f2",
+      "row": 2,
+      "column": 4,
+      "crop_box": [
+        884,
+        521,
+        1213,
+        1013
+      ],
+      "width": 329,
+      "height": 492,
+      "content_sha256": "5a2f2071e4e4c83e1b1ef969c310024a7bdb4a174aac703907bd9bd6cfeb80ba"
+    },
+    {
+      "file": "haruka-holding-phone-cheek-on-hand-smiling.png",
+      "label": "Holding phone cheek on hand smiling.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Hoodie Girl Sticker Sheet-9.png",
+      "source": "originals/collage-hoodie-phone-stickers.png",
+      "source_sha256": "316b9462ca504c3e3f4060694c9a915b4d9957743e99f518bef4c451c1023e13",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        0,
+        521,
+        335,
+        1017
+      ],
+      "width": 335,
+      "height": 496,
+      "content_sha256": "5631f12f187f0350a7453c089b90c0b1e865f21af037d63dff666de210936269"
+    },
+    {
+      "file": "haruka-holding-phone-crying.png",
+      "label": "Holding phone crying.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Expressive Phone Sticker Sheet-1.png",
+      "source": "originals/collage-expressive-phone-stickers-01.png",
+      "source_sha256": "88d027c616bcda7dfcc544760c4495c1f6950834e7b9a90b248a7b68a0cfc48e",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        296,
+        537,
+        613,
+        1005
+      ],
+      "width": 317,
+      "height": 468,
+      "content_sha256": "5d0306d65cd1853af1e7a508da292adf59d091701cba605cc076c1d1a7b4e913"
+    },
+    {
+      "file": "haruka-holding-phone-facepalming-embarrassed.png",
+      "label": "Holding phone facepalming embarrassed.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Expressive Phone Sticker Set-7.png",
+      "source": "originals/collage-expressive-phone-stickers-07.png",
+      "source_sha256": "430c284f243932d7c861547eb5267e59bf28e3f3231f95c99c08853864e25dc4",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        308,
+        509,
+        625,
+        1018
+      ],
+      "width": 317,
+      "height": 509,
+      "content_sha256": "7c79e546e5f3e9f06e3f0ee22ff2af219be73faba4d004b5bb94a0da04dd19ae"
+    },
+    {
+      "file": "haruka-holding-phone-facepalming-exasperated.png",
+      "label": "Holding phone facepalming exasperated.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Smartphone Expression Sticker Set-5.png",
+      "source": "originals/collage-smartphone-expression-stickers-05.png",
+      "source_sha256": "c078252ab5b007e7138d8dc7a30b9d03b36709b857db0921f88950072ea76419",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        588,
+        520,
+        924,
+        1018
+      ],
+      "width": 336,
+      "height": 498,
+      "content_sha256": "2dced8186a1836f46eee93be2215de60ce00dabc317c6be118f7cae8bee768fe"
+    },
+    {
+      "file": "haruka-holding-phone-finger-to-chin-thinking-02.png",
+      "label": "Holding phone finger to chin thinking.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expression Sticker Sheet-6.png",
+      "source": "originals/collage-smartphone-expression-stickers-06.png",
+      "source_sha256": "34bb4d52b923a3b261136d7cea888d2b316a0b14de41486f0e14666ca6ef7d89",
+      "row": 1,
+      "column": 4,
+      "crop_box": [
+        983,
+        0,
+        1311,
+        403
+      ],
+      "width": 328,
+      "height": 403,
+      "content_sha256": "7f27bb625bfc625daa9069bc986b52ffc931493f3a0426217e199723c0b3daa5"
+    },
+    {
+      "file": "haruka-holding-phone-finger-to-chin-thinking-03.png",
+      "label": "Holding phone finger to chin thinking.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expression Sticker Sheet-8.png",
+      "source": "originals/collage-smartphone-expression-stickers-08.png",
+      "source_sha256": "3631ffcc2ff97a846e9781567d2fe4554b3c4d0a140cc563026732367b6b26f2",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        306,
+        23,
+        629,
+        509
+      ],
+      "width": 323,
+      "height": 486,
+      "content_sha256": "87b13b2b00f654db9e5e0ed589802faced023471c67b482739d2a0593b5d5606"
+    },
+    {
+      "file": "haruka-holding-phone-finger-to-chin-thinking-04.png",
+      "label": "Holding phone finger to chin thinking.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expressions Grid-4.png",
+      "source": "originals/collage-smartphone-expressions-grid.png",
+      "source_sha256": "d1634f371f96afb0b17d740c7c23fc89b5a4f2773bea19303797ac2f76cf2f03",
+      "row": 1,
+      "column": 5,
+      "crop_box": [
+        1036,
+        108,
+        1312,
+        588
+      ],
+      "width": 276,
+      "height": 480,
+      "content_sha256": "b998d3fe61a5b8af54f123fe8e7ba9c2ac78ec024048b417b049609cdf8f485b"
+    },
+    {
+      "file": "haruka-holding-phone-finger-to-chin-thinking-05.png",
+      "label": "Holding phone finger to chin thinking.",
+      "kind": "collage-crop",
+      "original_filename": "Expressive Anime Phone Sticker Sheet-10.png",
+      "source": "originals/collage-expressive-phone-stickers-10.png",
+      "source_sha256": "447320fff4d107109450d5acb54b63e21ddbc4125c008831ea1b63dd5fb0858a",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        1,
+        504,
+        333,
+        1018
+      ],
+      "width": 332,
+      "height": 514,
+      "content_sha256": "eac3bee98c17d0d8c58e9b29c7a5785c2de8aa1f2e1e43f49786c4be64a09996"
+    },
+    {
+      "file": "haruka-holding-phone-finger-to-chin-thinking-06.png",
+      "label": "Holding phone finger to chin thinking.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Anime Sticker Pose Collection-11.png",
+      "source": "originals/collage-anime-sticker-pose-collection.png",
+      "source_sha256": "180b4f4b80ebdaf9191a978d24da3de4aa686d54659d34f2de9504bb455e3c4d",
+      "row": 1,
+      "column": 5,
+      "crop_box": [
+        1211,
+        13,
+        1536,
+        499
+      ],
+      "width": 325,
+      "height": 486,
+      "content_sha256": "40303d51511cc07b9ea7b7d18321a173ba54452a2620d789b96fff6ea598d6aa"
+    },
+    {
+      "file": "haruka-holding-phone-finger-to-chin-thinking-07.png",
+      "label": "Holding phone finger to chin thinking.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Expressive Phone Sticker Set-7.png",
+      "source": "originals/collage-expressive-phone-stickers-07.png",
+      "source_sha256": "430c284f243932d7c861547eb5267e59bf28e3f3231f95c99c08853864e25dc4",
+      "row": 1,
+      "column": 4,
+      "crop_box": [
+        908,
+        9,
+        1229,
+        511
+      ],
+      "width": 321,
+      "height": 502,
+      "content_sha256": "f8a9e56f8aed4239ebc562329584e74699234261551289807ce30287efc3c12f"
+    },
+    {
+      "file": "haruka-holding-phone-finger-to-chin-thinking-08.png",
+      "label": "Holding phone finger to chin thinking.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Expressive Phone Sticker Sheet-1.png",
+      "source": "originals/collage-expressive-phone-stickers-01.png",
+      "source_sha256": "88d027c616bcda7dfcc544760c4495c1f6950834e7b9a90b248a7b68a0cfc48e",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        300,
+        27,
+        624,
+        499
+      ],
+      "width": 324,
+      "height": 472,
+      "content_sha256": "9cc4673551cb9d02d04440517d81c3b9596a3b2e2d761ceba06bcc4c1eb7198c"
+    },
+    {
+      "file": "haruka-holding-phone-finger-to-chin-thinking-09.png",
+      "label": "Holding phone finger to chin thinking.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Smartphone Expression Sticker Set-5.png",
+      "source": "originals/collage-smartphone-expression-stickers-05.png",
+      "source_sha256": "c078252ab5b007e7138d8dc7a30b9d03b36709b857db0921f88950072ea76419",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        599,
+        0,
+        920,
+        506
+      ],
+      "width": 321,
+      "height": 506,
+      "content_sha256": "1910268bd2d6ac9bec6231570f8e11602e52b4031865af862f1a105913983f7f"
+    },
+    {
+      "file": "haruka-holding-phone-finger-to-chin-thinking.png",
+      "label": "Holding phone finger to chin thinking.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Hoodie Girl Sticker Sheet-9.png",
+      "source": "originals/collage-hoodie-phone-stickers.png",
+      "source_sha256": "316b9462ca504c3e3f4060694c9a915b4d9957743e99f518bef4c451c1023e13",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        313,
+        6,
+        629,
+        512
+      ],
+      "width": 316,
+      "height": 506,
+      "content_sha256": "0cb40416f0cb1ecfa5b647e8dbd355ca58f34d0c80407cb549f8e04313654ae7"
+    },
+    {
+      "file": "haruka-holding-phone-fist-overhead-laughing.png",
+      "label": "Holding phone fist overhead laughing.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Anime Sticker Pose Collection-11.png",
+      "source": "originals/collage-anime-sticker-pose-collection.png",
+      "source_sha256": "180b4f4b80ebdaf9191a978d24da3de4aa686d54659d34f2de9504bb455e3c4d",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        276,
+        521,
+        634,
+        1002
+      ],
+      "width": 358,
+      "height": 481,
+      "content_sha256": "d9ce4b1f842393858a0a7267a9952bc695d874a18aefe6f092b1848fa9de0dae"
+    },
+    {
+      "file": "haruka-holding-phone-fist-raised-angry.png",
+      "label": "Holding phone fist raised angry.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Anime Sticker Pose Collection-11.png",
+      "source": "originals/collage-anime-sticker-pose-collection.png",
+      "source_sha256": "180b4f4b80ebdaf9191a978d24da3de4aa686d54659d34f2de9504bb455e3c4d",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        0,
+        514,
+        327,
+        1002
+      ],
+      "width": 327,
+      "height": 488,
+      "content_sha256": "fc9cd1b91eee2da988d4af545b932f39d1d7ab54025d26cf36d7d0b655841e33"
+    },
+    {
+      "file": "haruka-holding-phone-fist-raised-excited-with-star-eyes.png",
+      "label": "Holding phone fist raised excited with star eyes.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expressions Grid-4.png",
+      "source": "originals/collage-smartphone-expressions-grid.png",
+      "source_sha256": "d1634f371f96afb0b17d740c7c23fc89b5a4f2773bea19303797ac2f76cf2f03",
+      "row": 1,
+      "column": 4,
+      "crop_box": [
+        775,
+        106,
+        1055,
+        587
+      ],
+      "width": 280,
+      "height": 481,
+      "content_sha256": "b4ae4e4ca91f1e5eb4b1fd4727bebd4663b4d243084806a1a36418c2fc73b1db"
+    },
+    {
+      "file": "haruka-holding-phone-fist-raised-laughing-01.png",
+      "label": "Holding phone fist raised laughing.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Hoodie Girl Sticker Sheet-9.png",
+      "source": "originals/collage-hoodie-phone-stickers.png",
+      "source_sha256": "316b9462ca504c3e3f4060694c9a915b4d9957743e99f518bef4c451c1023e13",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        0,
+        6,
+        341,
+        512
+      ],
+      "width": 341,
+      "height": 506,
+      "content_sha256": "5fbe93c7dd0ce7a5e9c5cc93fad975e94b9dee32c64a8da8204cdf4187853895"
+    },
+    {
+      "file": "haruka-holding-phone-fist-raised-laughing-02.png",
+      "label": "Holding phone fist raised laughing.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expression Sticker Sheet-6.png",
+      "source": "originals/collage-smartphone-expression-stickers-06.png",
+      "source_sha256": "34bb4d52b923a3b261136d7cea888d2b316a0b14de41486f0e14666ca6ef7d89",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        630,
+        0,
+        983,
+        403
+      ],
+      "width": 353,
+      "height": 403,
+      "content_sha256": "f686c7961991a617ec9400bbcd75659c8905ddc293b971ef8ebc321e04716661"
+    },
+    {
+      "file": "haruka-holding-phone-fist-raised-laughing-03.png",
+      "label": "Holding phone fist raised laughing.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expression Sticker Sheet-8.png",
+      "source": "originals/collage-smartphone-expression-stickers-08.png",
+      "source_sha256": "3631ffcc2ff97a846e9781567d2fe4554b3c4d0a140cc563026732367b6b26f2",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        0,
+        12,
+        329,
+        574
+      ],
+      "width": 329,
+      "height": 562,
+      "content_sha256": "95c57f626f43e2fd86cb7f3c88388cee7bd07f1249153fcde4dcbb5bcc1e6e3c"
+    },
+    {
+      "file": "haruka-holding-phone-fist-raised-laughing-04.png",
+      "label": "Holding phone fist raised laughing.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Sticker Girl Portraits-12.png",
+      "source": "originals/collage-smartphone-sticker-portraits.png",
+      "source_sha256": "b4e8ef78cd0734e3398980657ca86804a0a8d783e5deba71580ff3dc5a457d68",
+      "row": 1,
+      "column": 4,
+      "crop_box": [
+        768,
+        117,
+        1050,
+        608
+      ],
+      "width": 282,
+      "height": 491,
+      "content_sha256": "6d86f60f61e5aa7458a7ed7f9fcfcc633376e18fa8fd10bbd0f66ec0a25bb227"
+    },
+    {
+      "file": "haruka-holding-phone-fist-raised-laughing-05.png",
+      "label": "Holding phone fist raised laughing.",
+      "kind": "collage-crop",
+      "original_filename": "Expressive Anime Phone Sticker Sheet-10.png",
+      "source": "originals/collage-expressive-phone-stickers-10.png",
+      "source_sha256": "447320fff4d107109450d5acb54b63e21ddbc4125c008831ea1b63dd5fb0858a",
+      "row": 1,
+      "column": 5,
+      "crop_box": [
+        1205,
+        9,
+        1536,
+        504
+      ],
+      "width": 331,
+      "height": 495,
+      "content_sha256": "2eedb1a3b36d1aadffc6624c0b2092a19dbaff620adfd465473febff085603c2"
+    },
+    {
+      "file": "haruka-holding-phone-fist-raised-laughing-06.png",
+      "label": "Holding phone fist raised laughing.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Anime Sticker Pose Collection-11.png",
+      "source": "originals/collage-anime-sticker-pose-collection.png",
+      "source_sha256": "180b4f4b80ebdaf9191a978d24da3de4aa686d54659d34f2de9504bb455e3c4d",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        0,
+        12,
+        334,
+        499
+      ],
+      "width": 334,
+      "height": 487,
+      "content_sha256": "865ed8b3d4266a6a4af63a6d24c1eb51731c8fd2d4a17dacfc5cfb399fe96abc"
+    },
+    {
+      "file": "haruka-holding-phone-fist-raised-laughing-07.png",
+      "label": "Holding phone fist raised laughing.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Expressive Phone Sticker Set-7.png",
+      "source": "originals/collage-expressive-phone-stickers-07.png",
+      "source_sha256": "430c284f243932d7c861547eb5267e59bf28e3f3231f95c99c08853864e25dc4",
+      "row": 1,
+      "column": 5,
+      "crop_box": [
+        1199,
+        3,
+        1536,
+        511
+      ],
+      "width": 337,
+      "height": 508,
+      "content_sha256": "df7c3c48d85e4ee75b9a8abace8361f811708cb3eb41854241db3c6a167a735f"
+    },
+    {
+      "file": "haruka-holding-phone-fist-raised-laughing-08.png",
+      "label": "Holding phone fist raised laughing.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Expressive Phone Sticker Sheet-1.png",
+      "source": "originals/collage-expressive-phone-stickers-01.png",
+      "source_sha256": "88d027c616bcda7dfcc544760c4495c1f6950834e7b9a90b248a7b68a0cfc48e",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        597,
+        27,
+        937,
+        499
+      ],
+      "width": 340,
+      "height": 472,
+      "content_sha256": "e6a87e0118d9616624720fc951e6d75d6a4a73b1591b5c5633b10e32bfc1f626"
+    },
+    {
+      "file": "haruka-holding-phone-fist-raised-laughing-09.png",
+      "label": "Holding phone fist raised laughing.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Smartphone Expression Sticker Set-5.png",
+      "source": "originals/collage-smartphone-expression-stickers-05.png",
+      "source_sha256": "c078252ab5b007e7138d8dc7a30b9d03b36709b857db0921f88950072ea76419",
+      "row": 1,
+      "column": 4,
+      "crop_box": [
+        899,
+        0,
+        1246,
+        504
+      ],
+      "width": 347,
+      "height": 504,
+      "content_sha256": "46b91e10bae7deb904c712969ebbe59b2cda8040365938df0a6e96ffbb2fad1d"
+    },
+    {
+      "file": "haruka-holding-phone-fist-raised-laughing.png",
+      "label": "Holding phone fist raised laughing.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Girl Smartphone Sticker Set-3.png",
+      "source": "originals/collage-smartphone-sticker-set.png",
+      "source_sha256": "2a64e7185702e28b9d0c9ab0d60a77f4471aa57a7ec50baa688cd426fa693302",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        622,
+        12,
+        943,
+        507
+      ],
+      "width": 321,
+      "height": 495,
+      "content_sha256": "adc1662bd15353d9d2b3bd4cfe01ef326d5f1cca832a574ada05a505d155f6d3"
+    },
+    {
+      "file": "haruka-holding-phone-frowning-angry.png",
+      "label": "Holding phone frowning angry.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Expressive Phone Sticker Set-7.png",
+      "source": "originals/collage-expressive-phone-stickers-07.png",
+      "source_sha256": "430c284f243932d7c861547eb5267e59bf28e3f3231f95c99c08853864e25dc4",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        0,
+        513,
+        321,
+        1017
+      ],
+      "width": 321,
+      "height": 504,
+      "content_sha256": "44c22d8a0bf70876bcfd7200b38935b49d71585d9885e4f335a37a12463b5543"
+    },
+    {
+      "file": "haruka-holding-phone-frowning-annoyed.png",
+      "label": "Holding phone frowning annoyed.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Expressive Phone Sticker Sheet-1.png",
+      "source": "originals/collage-expressive-phone-stickers-01.png",
+      "source_sha256": "88d027c616bcda7dfcc544760c4495c1f6950834e7b9a90b248a7b68a0cfc48e",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        0,
+        530,
+        323,
+        1004
+      ],
+      "width": 323,
+      "height": 474,
+      "content_sha256": "e007b415bad400127d21653c4d5e3ceced56d210949d6f6f555781925f2f40b5"
+    },
+    {
+      "file": "haruka-holding-phone-hand-behind-head-listening-to-earbuds.png",
+      "label": "Holding phone hand behind head listening to earbuds.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expression Sticker Sheet-6.png",
+      "source": "originals/collage-smartphone-expression-stickers-06.png",
+      "source_sha256": "34bb4d52b923a3b261136d7cea888d2b316a0b14de41486f0e14666ca6ef7d89",
+      "row": 2,
+      "column": 4,
+      "crop_box": [
+        957,
+        392,
+        1312,
+        788
+      ],
+      "width": 355,
+      "height": 396,
+      "content_sha256": "269b8e74db4075208f86de9a0997e7722b579b8738e637c9054e82218a9cc8ff"
+    },
+    {
+      "file": "haruka-holding-phone-hand-near-mouth-giggling.png",
+      "label": "Holding phone hand near mouth giggling.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expression Sticker Sheet-8.png",
+      "source": "originals/collage-smartphone-expression-stickers-08.png",
+      "source_sha256": "3631ffcc2ff97a846e9781567d2fe4554b3c4d0a140cc563026732367b6b26f2",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        301,
+        517,
+        613,
+        1013
+      ],
+      "width": 312,
+      "height": 496,
+      "content_sha256": "cd53aea4935a65d46c6dbd748c7bb258ad60284e6c239e466275d56e4634e88d"
+    },
+    {
+      "file": "haruka-holding-phone-hand-near-mouth-surprised.png",
+      "label": "Holding phone hand near mouth surprised.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Smartphone Expression Sticker Set-5.png",
+      "source": "originals/collage-smartphone-expression-stickers-05.png",
+      "source_sha256": "c078252ab5b007e7138d8dc7a30b9d03b36709b857db0921f88950072ea76419",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        309,
+        0,
+        620,
+        503
+      ],
+      "width": 311,
+      "height": 503,
+      "content_sha256": "5798b14783d63d0c1153809a782a32ae1f8608585c3f883e1572591a70e5d3bd"
+    },
+    {
+      "file": "haruka-holding-phone-hand-on-chin-puzzled.png",
+      "label": "Holding phone hand on chin puzzled.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Girl Smartphone Sticker Set-3.png",
+      "source": "originals/collage-smartphone-sticker-set.png",
+      "source_sha256": "2a64e7185702e28b9d0c9ab0d60a77f4471aa57a7ec50baa688cd426fa693302",
+      "row": 1,
+      "column": 5,
+      "crop_box": [
+        1212,
+        6,
+        1536,
+        506
+      ],
+      "width": 324,
+      "height": 500,
+      "content_sha256": "1e689d72dc14c49f0ea69f3c83304d79d2a52b0aea586567cf2ea2196028a908"
+    },
+    {
+      "file": "haruka-holding-phone-hand-on-chin-skeptical-02.png",
+      "label": "Holding phone hand on chin skeptical.",
+      "kind": "collage-crop",
+      "original_filename": "Expressive Anime Phone Sticker Sheet-10.png",
+      "source": "originals/collage-expressive-phone-stickers-10.png",
+      "source_sha256": "447320fff4d107109450d5acb54b63e21ddbc4125c008831ea1b63dd5fb0858a",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        611,
+        9,
+        923,
+        505
+      ],
+      "width": 312,
+      "height": 496,
+      "content_sha256": "96f1d3fb38654ee9167fe361188416ff06e9405ac6f97e0c78f89b8618efb9d2"
+    },
+    {
+      "file": "haruka-holding-phone-hand-on-chin-skeptical.png",
+      "label": "Holding phone hand on chin skeptical.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expressions Grid-4.png",
+      "source": "originals/collage-smartphone-expressions-grid.png",
+      "source_sha256": "d1634f371f96afb0b17d740c7c23fc89b5a4f2773bea19303797ac2f76cf2f03",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        520,
+        110,
+        793,
+        587
+      ],
+      "width": 273,
+      "height": 477,
+      "content_sha256": "e9f01f2b0fb5a02a73ef1bb1e48b5fa8b6b38d4b7c71d604802ce2324a4d67b2"
+    },
+    {
+      "file": "haruka-holding-phone-hand-over-mouth-giggling-02.png",
+      "label": "Holding phone hand over mouth giggling.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expressions Grid-4.png",
+      "source": "originals/collage-smartphone-expressions-grid.png",
+      "source_sha256": "d1634f371f96afb0b17d740c7c23fc89b5a4f2773bea19303797ac2f76cf2f03",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        255,
+        627,
+        532,
+        1096
+      ],
+      "width": 277,
+      "height": 469,
+      "content_sha256": "06e7ea67d48b96ebfd847533bec616787697915815f498c2ee72ae34833ed284"
+    },
+    {
+      "file": "haruka-holding-phone-hand-over-mouth-giggling-03.png",
+      "label": "Holding phone hand over mouth giggling.",
+      "kind": "collage-crop",
+      "original_filename": "Expressive Anime Phone Sticker Sheet-10.png",
+      "source": "originals/collage-expressive-phone-stickers-10.png",
+      "source_sha256": "447320fff4d107109450d5acb54b63e21ddbc4125c008831ea1b63dd5fb0858a",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        599,
+        513,
+        938,
+        1018
+      ],
+      "width": 339,
+      "height": 505,
+      "content_sha256": "685fe6579494a3aac4fd2a6cfda587eee8f2d1a98416c971f5d1e705b7423a30"
+    },
+    {
+      "file": "haruka-holding-phone-hand-over-mouth-giggling.png",
+      "label": "Holding phone hand over mouth giggling.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expression Sticker Sheet-6.png",
+      "source": "originals/collage-smartphone-expression-stickers-06.png",
+      "source_sha256": "34bb4d52b923a3b261136d7cea888d2b316a0b14de41486f0e14666ca6ef7d89",
+      "row": 3,
+      "column": 1,
+      "crop_box": [
+        169,
+        776,
+        516,
+        1199
+      ],
+      "width": 347,
+      "height": 423,
+      "content_sha256": "12df38d9b353a8f8ceb31d0bd6b5aaa866778648e893033aa0fddb18ca3d0388"
+    },
+    {
+      "file": "haruka-holding-phone-hand-over-mouth-surprised-02.png",
+      "label": "Holding phone hand over mouth surprised.",
+      "kind": "collage-crop",
+      "original_filename": "Expressive Anime Phone Sticker Sheet-10.png",
+      "source": "originals/collage-expressive-phone-stickers-10.png",
+      "source_sha256": "447320fff4d107109450d5acb54b63e21ddbc4125c008831ea1b63dd5fb0858a",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        300,
+        13,
+        619,
+        505
+      ],
+      "width": 319,
+      "height": 492,
+      "content_sha256": "31252d1efbb71ed719e9bb4b72910ee45ffb1bb5a863f70daf7123c6592587d6"
+    },
+    {
+      "file": "haruka-holding-phone-hand-over-mouth-surprised-03.png",
+      "label": "Holding phone hand over mouth surprised.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Anime Sticker Pose Collection-11.png",
+      "source": "originals/collage-anime-sticker-pose-collection.png",
+      "source_sha256": "180b4f4b80ebdaf9191a978d24da3de4aa686d54659d34f2de9504bb455e3c4d",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        611,
+        11,
+        925,
+        499
+      ],
+      "width": 314,
+      "height": 488,
+      "content_sha256": "e808cae0a78cf06b0e63953bb8e22f493a07059f283668fb2da6c79181e41aea"
+    },
+    {
+      "file": "haruka-holding-phone-hand-over-mouth-surprised-04.png",
+      "label": "Holding phone hand over mouth surprised.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Expressive Phone Sticker Set-7.png",
+      "source": "originals/collage-expressive-phone-stickers-07.png",
+      "source_sha256": "430c284f243932d7c861547eb5267e59bf28e3f3231f95c99c08853864e25dc4",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        603,
+        1,
+        927,
+        510
+      ],
+      "width": 324,
+      "height": 509,
+      "content_sha256": "1d5a6872a2702caabd4318271abe5ce3cd7c41dfc1f6ffbf764f57366feb37e1"
+    },
+    {
+      "file": "haruka-holding-phone-hand-over-mouth-surprised.png",
+      "label": "Holding phone hand over mouth surprised.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Hoodie Girl Sticker Sheet-9.png",
+      "source": "originals/collage-hoodie-phone-stickers.png",
+      "source_sha256": "316b9462ca504c3e3f4060694c9a915b4d9957743e99f518bef4c451c1023e13",
+      "row": 1,
+      "column": 5,
+      "crop_box": [
+        1205,
+        8,
+        1536,
+        511
+      ],
+      "width": 331,
+      "height": 503,
+      "content_sha256": "c5d81467fbb632c0ee6390a6a501d913e03db787ab42eb0bc6eb18c02413f7e8"
+    },
+    {
+      "file": "haruka-holding-phone-hugging-pillow-shy.png",
+      "label": "Holding phone hugging pillow shy.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Expressive Phone Sticker Set-7.png",
+      "source": "originals/collage-expressive-phone-stickers-07.png",
+      "source_sha256": "430c284f243932d7c861547eb5267e59bf28e3f3231f95c99c08853864e25dc4",
+      "row": 2,
+      "column": 5,
+      "crop_box": [
+        1203,
+        522,
+        1536,
+        1014
+      ],
+      "width": 333,
+      "height": 492,
+      "content_sha256": "3a7c839aa9f3883557263da6587cdc4f39c41128bcc0a49d3e0d563fc8150ee2"
+    },
+    {
+      "file": "haruka-holding-phone-index-finger-raised-inspired-with-lightbulb-02.png",
+      "label": "Holding phone index finger raised inspired with lightbulb.",
+      "kind": "collage-crop",
+      "original_filename": "Expressive Anime Phone Sticker Sheet-10.png",
+      "source": "originals/collage-expressive-phone-stickers-10.png",
+      "source_sha256": "447320fff4d107109450d5acb54b63e21ddbc4125c008831ea1b63dd5fb0858a",
+      "row": 2,
+      "column": 5,
+      "crop_box": [
+        1216,
+        509,
+        1536,
+        1018
+      ],
+      "width": 320,
+      "height": 509,
+      "content_sha256": "59c6ad0a47caa11c1bc7dedc799ac610b2383d53c7c3638c50ca409f655c71c6"
+    },
+    {
+      "file": "haruka-holding-phone-index-finger-raised-inspired-with-lightbulb-03.png",
+      "label": "Holding phone index finger raised inspired with lightbulb.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Expressive Phone Sticker Sheet-1.png",
+      "source": "originals/collage-expressive-phone-stickers-01.png",
+      "source_sha256": "88d027c616bcda7dfcc544760c4495c1f6950834e7b9a90b248a7b68a0cfc48e",
+      "row": 2,
+      "column": 4,
+      "crop_box": [
+        899,
+        534,
+        1227,
+        1006
+      ],
+      "width": 328,
+      "height": 472,
+      "content_sha256": "9b13429ccacbe32f99b7cfcb7f08c7ba027dc840484813b772c432a9b9880b34"
+    },
+    {
+      "file": "haruka-holding-phone-index-finger-raised-inspired-with-lightbulb-04.png",
+      "label": "Holding phone index finger raised inspired with lightbulb.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Smartphone Expression Sticker Set-5.png",
+      "source": "originals/collage-smartphone-expression-stickers-05.png",
+      "source_sha256": "c078252ab5b007e7138d8dc7a30b9d03b36709b857db0921f88950072ea76419",
+      "row": 2,
+      "column": 4,
+      "crop_box": [
+        875,
+        510,
+        1232,
+        1018
+      ],
+      "width": 357,
+      "height": 508,
+      "content_sha256": "bc92120770e7585d93fe2e73a9e6934b696b28ada2b3b4fb2bf64af1bce341ec"
+    },
+    {
+      "file": "haruka-holding-phone-index-finger-raised-inspired-with-lightbulb.png",
+      "label": "Holding phone index finger raised inspired with lightbulb.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Hoodie Girl Sticker Sheet-9.png",
+      "source": "originals/collage-hoodie-phone-stickers.png",
+      "source_sha256": "316b9462ca504c3e3f4060694c9a915b4d9957743e99f518bef4c451c1023e13",
+      "row": 2,
+      "column": 4,
+      "crop_box": [
+        887,
+        510,
+        1216,
+        1018
+      ],
+      "width": 329,
+      "height": 508,
+      "content_sha256": "c19c6d59851aeab934db670de9c825f7c8ca08957a5f5a8773cd7220bb0e1d82"
+    },
+    {
+      "file": "haruka-holding-phone-laughing-02.png",
+      "label": "Holding phone laughing.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expression Sticker Sheet-6.png",
+      "source": "originals/collage-smartphone-expression-stickers-06.png",
+      "source_sha256": "34bb4d52b923a3b261136d7cea888d2b316a0b14de41486f0e14666ca6ef7d89",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        0,
+        0,
+        318,
+        403
+      ],
+      "width": 318,
+      "height": 403,
+      "content_sha256": "14c6b0af7c7ef3c82e3d58389cae6037e3d4a155c375e7fcf71f76f519319879"
+    },
+    {
+      "file": "haruka-holding-phone-laughing-03.png",
+      "label": "Holding phone laughing.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expressions Grid-4.png",
+      "source": "originals/collage-smartphone-expressions-grid.png",
+      "source_sha256": "d1634f371f96afb0b17d740c7c23fc89b5a4f2773bea19303797ac2f76cf2f03",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        0,
+        103,
+        278,
+        588
+      ],
+      "width": 278,
+      "height": 485,
+      "content_sha256": "c42997771b97f1f8b59b4428a3bed4c4e3250efaf2773af5f70d67824f446025"
+    },
+    {
+      "file": "haruka-holding-phone-laughing-04.png",
+      "label": "Holding phone laughing.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Sticker Girl Portraits-12.png",
+      "source": "originals/collage-smartphone-sticker-portraits.png",
+      "source_sha256": "b4e8ef78cd0734e3398980657ca86804a0a8d783e5deba71580ff3dc5a457d68",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        0,
+        115,
+        290,
+        608
+      ],
+      "width": 290,
+      "height": 493,
+      "content_sha256": "4b25695849e291d5c3c5cb79a687f7d18f2c11994bc7f72a96320e4c0d1c40d3"
+    },
+    {
+      "file": "haruka-holding-phone-laughing-05.png",
+      "label": "Holding phone laughing.",
+      "kind": "collage-crop",
+      "original_filename": "Expressive Anime Phone Sticker Sheet-10.png",
+      "source": "originals/collage-expressive-phone-stickers-10.png",
+      "source_sha256": "447320fff4d107109450d5acb54b63e21ddbc4125c008831ea1b63dd5fb0858a",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        0,
+        11,
+        315,
+        505
+      ],
+      "width": 315,
+      "height": 494,
+      "content_sha256": "b622cafa1558c8c9be7266172057e7914cf1370d129663b0ca4d647be5134a9e"
+    },
+    {
+      "file": "haruka-holding-phone-laughing-06.png",
+      "label": "Holding phone laughing.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Expressive Phone Sticker Set-7.png",
+      "source": "originals/collage-expressive-phone-stickers-07.png",
+      "source_sha256": "430c284f243932d7c861547eb5267e59bf28e3f3231f95c99c08853864e25dc4",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        0,
+        1,
+        334,
+        510
+      ],
+      "width": 334,
+      "height": 509,
+      "content_sha256": "132525cb38f76804fecd03b7a75b144be38407b2784a4a5472916502145266f2"
+    },
+    {
+      "file": "haruka-holding-phone-laughing-07.png",
+      "label": "Holding phone laughing.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Expressive Phone Sticker Sheet-1.png",
+      "source": "originals/collage-expressive-phone-stickers-01.png",
+      "source_sha256": "88d027c616bcda7dfcc544760c4495c1f6950834e7b9a90b248a7b68a0cfc48e",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        4,
+        29,
+        323,
+        499
+      ],
+      "width": 319,
+      "height": 470,
+      "content_sha256": "b25d4d1355d0d836665096b176caba8ec93f5a076a251367a08dc5731f609c55"
+    },
+    {
+      "file": "haruka-holding-phone-laughing-08.png",
+      "label": "Holding phone laughing.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Smartphone Expression Sticker Set-5.png",
+      "source": "originals/collage-smartphone-expression-stickers-05.png",
+      "source_sha256": "c078252ab5b007e7138d8dc7a30b9d03b36709b857db0921f88950072ea76419",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        0,
+        0,
+        323,
+        506
+      ],
+      "width": 323,
+      "height": 506,
+      "content_sha256": "c8d7a74f062df2b82a6b2ccbe7e5c60da34cdd98c4069c3b3551e6c50c099216"
+    },
+    {
+      "file": "haruka-holding-phone-laughing.png",
+      "label": "Holding phone laughing.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Girl Smartphone Sticker Set-3.png",
+      "source": "originals/collage-smartphone-sticker-set.png",
+      "source_sha256": "2a64e7185702e28b9d0c9ab0d60a77f4471aa57a7ec50baa688cd426fa693302",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        0,
+        4,
+        334,
+        506
+      ],
+      "width": 334,
+      "height": 502,
+      "content_sha256": "f20913bcf728d9e11c63f2855b53f3764accc16e74e6127fab0e6acf429d5d32"
+    },
+    {
+      "file": "haruka-holding-phone-palm-up-eyes-closed-smiling.png",
+      "label": "Holding phone palm up eyes closed smiling.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Hoodie Girl Sticker Sheet-9.png",
+      "source": "originals/collage-hoodie-phone-stickers.png",
+      "source_sha256": "316b9462ca504c3e3f4060694c9a915b4d9957743e99f518bef4c451c1023e13",
+      "row": 2,
+      "column": 5,
+      "crop_box": [
+        1178,
+        515,
+        1536,
+        1018
+      ],
+      "width": 358,
+      "height": 503,
+      "content_sha256": "2b92168fa22f910f8118e5cca1081c64387b385c74fcdb4228ba76a7a909a65d"
+    },
+    {
+      "file": "haruka-holding-phone-scratching-head-frustrated-02.png",
+      "label": "Holding phone scratching head frustrated.",
+      "kind": "collage-crop",
+      "original_filename": "Expressive Anime Phone Sticker Sheet-10.png",
+      "source": "originals/collage-expressive-phone-stickers-10.png",
+      "source_sha256": "447320fff4d107109450d5acb54b63e21ddbc4125c008831ea1b63dd5fb0858a",
+      "row": 2,
+      "column": 4,
+      "crop_box": [
+        899,
+        511,
+        1232,
+        1018
+      ],
+      "width": 333,
+      "height": 507,
+      "content_sha256": "69a67afcd3d7401dd0c8a97e9cabffdda6a0a90e14b55206391446ca88802f60"
+    },
+    {
+      "file": "haruka-holding-phone-scratching-head-frustrated.png",
+      "label": "Holding phone scratching head frustrated.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Hoodie Girl Sticker Sheet-9.png",
+      "source": "originals/collage-hoodie-phone-stickers.png",
+      "source_sha256": "316b9462ca504c3e3f4060694c9a915b4d9957743e99f518bef4c451c1023e13",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        569,
+        522,
+        925,
+        1018
+      ],
+      "width": 356,
+      "height": 496,
+      "content_sha256": "76d78bbbf872596c73b7c02059616d349794ea95c41ff1acf60682a906fc3c26"
+    },
+    {
+      "file": "haruka-holding-phone-shocked-02.png",
+      "label": "Holding phone shocked.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expressions Grid-4.png",
+      "source": "originals/collage-smartphone-expressions-grid.png",
+      "source_sha256": "d1634f371f96afb0b17d740c7c23fc89b5a4f2773bea19303797ac2f76cf2f03",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        0,
+        623,
+        277,
+        1096
+      ],
+      "width": 277,
+      "height": 473,
+      "content_sha256": "78570955d0697ee0a8f9218b4158ea97b62755c13329624ab9704569874b86f1"
+    },
+    {
+      "file": "haruka-holding-phone-shocked-with-sweat-drop.png",
+      "label": "Holding phone shocked with sweat drop.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expression Sticker Sheet-6.png",
+      "source": "originals/collage-smartphone-expression-stickers-06.png",
+      "source_sha256": "34bb4d52b923a3b261136d7cea888d2b316a0b14de41486f0e14666ca6ef7d89",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        4,
+        392,
+        322,
+        789
+      ],
+      "width": 318,
+      "height": 397,
+      "content_sha256": "5669bf8e666847d7c50101f47a14e7dd3b2a4ed36803ad406bd5895a9e845623"
+    },
+    {
+      "file": "haruka-holding-phone-shocked.png",
+      "label": "Holding phone shocked.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expression Sticker Sheet-8.png",
+      "source": "originals/collage-smartphone-expression-stickers-08.png",
+      "source_sha256": "3631ffcc2ff97a846e9781567d2fe4554b3c4d0a140cc563026732367b6b26f2",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        597,
+        507,
+        913,
+        1013
+      ],
+      "width": 316,
+      "height": 506,
+      "content_sha256": "4faf826609b6182d13c7ffa51cc3ec1f5ed4a046471322bee89f41a4a4cda335"
+    },
+    {
+      "file": "haruka-holding-phone-smiling.png",
+      "label": "Holding phone smiling.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Anime Sticker Pose Collection-11.png",
+      "source": "originals/collage-anime-sticker-pose-collection.png",
+      "source_sha256": "180b4f4b80ebdaf9191a978d24da3de4aa686d54659d34f2de9504bb455e3c4d",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        317,
+        11,
+        629,
+        499
+      ],
+      "width": 312,
+      "height": 488,
+      "content_sha256": "fc08ab494ea30fa13ba85b34436df0583f740092da46e80fbd5165e911ca59ba"
+    },
+    {
+      "file": "haruka-holding-phone-stretching-yawning.png",
+      "label": "Holding phone stretching yawning.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Sticker Girl Portraits-12.png",
+      "source": "originals/collage-smartphone-sticker-portraits.png",
+      "source_sha256": "b4e8ef78cd0734e3398980657ca86804a0a8d783e5deba71580ff3dc5a457d68",
+      "row": 2,
+      "column": 5,
+      "crop_box": [
+        1023,
+        626,
+        1312,
+        1115
+      ],
+      "width": 289,
+      "height": 489,
+      "content_sha256": "339a29481e5c43426bfe592651d99abd82879509a35bca9f59ae658dc289380d"
+    },
+    {
+      "file": "haruka-holding-phone-surprised-02.png",
+      "label": "Holding phone surprised.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expression Sticker Sheet-8.png",
+      "source": "originals/collage-smartphone-expression-stickers-08.png",
+      "source_sha256": "3631ffcc2ff97a846e9781567d2fe4554b3c4d0a140cc563026732367b6b26f2",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        598,
+        15,
+        922,
+        509
+      ],
+      "width": 324,
+      "height": 494,
+      "content_sha256": "1aff4cfec28d3cad4a7c6c042e17177c7abc73f0c0b25c9e919f2c144cf47390"
+    },
+    {
+      "file": "haruka-holding-phone-surprised-03.png",
+      "label": "Holding phone surprised.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Sticker Girl Portraits-12.png",
+      "source": "originals/collage-smartphone-sticker-portraits.png",
+      "source_sha256": "b4e8ef78cd0734e3398980657ca86804a0a8d783e5deba71580ff3dc5a457d68",
+      "row": 1,
+      "column": 5,
+      "crop_box": [
+        1027,
+        114,
+        1312,
+        608
+      ],
+      "width": 285,
+      "height": 494,
+      "content_sha256": "655c2d5dcc394395070e2c70a1f344c535f3c3001cdf17ecf61a166394a529e5"
+    },
+    {
+      "file": "haruka-holding-phone-surprised-04.png",
+      "label": "Holding phone surprised.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Expressive Phone Sticker Sheet-1.png",
+      "source": "originals/collage-expressive-phone-stickers-01.png",
+      "source_sha256": "88d027c616bcda7dfcc544760c4495c1f6950834e7b9a90b248a7b68a0cfc48e",
+      "row": 1,
+      "column": 4,
+      "crop_box": [
+        911,
+        28,
+        1234,
+        500
+      ],
+      "width": 323,
+      "height": 472,
+      "content_sha256": "2cbb67b127826081bbd918cf95d1ca17f73982bbb50e1169b78aaa4a65bb4c5c"
+    },
+    {
+      "file": "haruka-holding-phone-surprised.png",
+      "label": "Holding phone surprised.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Girl Smartphone Sticker Set-3.png",
+      "source": "originals/collage-smartphone-sticker-set.png",
+      "source_sha256": "2a64e7185702e28b9d0c9ab0d60a77f4471aa57a7ec50baa688cd426fa693302",
+      "row": 1,
+      "column": 4,
+      "crop_box": [
+        924,
+        11,
+        1234,
+        505
+      ],
+      "width": 310,
+      "height": 494,
+      "content_sha256": "be1bc9985e918db54d13c49a0f904ac26f29180fbe07b4c28a3f55cab13a86d8"
+    },
+    {
+      "file": "haruka-holding-phone-tapping-screen-angry.png",
+      "label": "Holding phone tapping screen angry.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expression Sticker Sheet-6.png",
+      "source": "originals/collage-smartphone-expression-stickers-06.png",
+      "source_sha256": "34bb4d52b923a3b261136d7cea888d2b316a0b14de41486f0e14666ca6ef7d89",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        629,
+        398,
+        959,
+        788
+      ],
+      "width": 330,
+      "height": 390,
+      "content_sha256": "332eeb8c6733016ef671ce5551e9b94852c3389afb60cc407424e8bd16d1c546"
+    },
+    {
+      "file": "haruka-holding-phone-tapping-screen-curious-02.png",
+      "label": "Holding phone tapping screen curious.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expressions Grid-4.png",
+      "source": "originals/collage-smartphone-expressions-grid.png",
+      "source_sha256": "d1634f371f96afb0b17d740c7c23fc89b5a4f2773bea19303797ac2f76cf2f03",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        256,
+        108,
+        538,
+        588
+      ],
+      "width": 282,
+      "height": 480,
+      "content_sha256": "ef6ef1c5c5791b1589012dc83de39333a7234f65119b6840220bd636a816e993"
+    },
+    {
+      "file": "haruka-holding-phone-tapping-screen-curious-03.png",
+      "label": "Holding phone tapping screen curious.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Sticker Girl Portraits-12.png",
+      "source": "originals/collage-smartphone-sticker-portraits.png",
+      "source_sha256": "b4e8ef78cd0734e3398980657ca86804a0a8d783e5deba71580ff3dc5a457d68",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        263,
+        115,
+        547,
+        609
+      ],
+      "width": 284,
+      "height": 494,
+      "content_sha256": "3f98b6f92c1a5190b6e083aaeee9f7db814e21fcf4c3cb80ec9bed4903ca6aed"
+    },
+    {
+      "file": "haruka-holding-phone-tapping-screen-curious.png",
+      "label": "Holding phone tapping screen curious.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expression Sticker Sheet-6.png",
+      "source": "originals/collage-smartphone-expression-stickers-06.png",
+      "source_sha256": "34bb4d52b923a3b261136d7cea888d2b316a0b14de41486f0e14666ca6ef7d89",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        319,
+        0,
+        640,
+        403
+      ],
+      "width": 321,
+      "height": 403,
+      "content_sha256": "da5d6cd7dfcaaf46b2b917051e87b69c2f10efd836680ccdad58a588812157ef"
+    },
+    {
+      "file": "haruka-holding-phone-tapping-screen-smiling.png",
+      "label": "Holding phone tapping screen smiling.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Expressive Phone Sticker Set-7.png",
+      "source": "originals/collage-expressive-phone-stickers-07.png",
+      "source_sha256": "430c284f243932d7c861547eb5267e59bf28e3f3231f95c99c08853864e25dc4",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        309,
+        1,
+        625,
+        510
+      ],
+      "width": 316,
+      "height": 509,
+      "content_sha256": "df9e33257c5bce5f827a7d454f00b50a0114f40797beb5da4241ff0a2896a76d"
+    },
+    {
+      "file": "haruka-holding-phone-touching-ear-eyes-closed-smiling.png",
+      "label": "Holding phone touching ear eyes closed smiling.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Girl Smartphone Sticker Set-3.png",
+      "source": "originals/collage-smartphone-sticker-set.png",
+      "source_sha256": "2a64e7185702e28b9d0c9ab0d60a77f4471aa57a7ec50baa688cd426fa693302",
+      "row": 2,
+      "column": 4,
+      "crop_box": [
+        899,
+        515,
+        1227,
+        1018
+      ],
+      "width": 328,
+      "height": 503,
+      "content_sha256": "59abc03433f4b81b73ac8edc719efe12171214e3953fffdf02c3816051d08aa3"
+    },
+    {
+      "file": "haruka-holding-phone-touching-earbud-eyes-closed-smiling-02.png",
+      "label": "Holding phone touching earbud eyes closed smiling.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Sticker Girl Portraits-12.png",
+      "source": "originals/collage-smartphone-sticker-portraits.png",
+      "source_sha256": "b4e8ef78cd0734e3398980657ca86804a0a8d783e5deba71580ff3dc5a457d68",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        259,
+        626,
+        538,
+        1115
+      ],
+      "width": 279,
+      "height": 489,
+      "content_sha256": "d07524adc5f77a73a1b0610a233177efeeab6730458a3c0a65d4488fa8799122"
+    },
+    {
+      "file": "haruka-holding-phone-touching-earbud-eyes-closed-smiling-03.png",
+      "label": "Holding phone touching earbud eyes closed smiling.",
+      "kind": "collage-crop",
+      "original_filename": "Expressive Anime Phone Sticker Sheet-10.png",
+      "source": "originals/collage-expressive-phone-stickers-10.png",
+      "source_sha256": "447320fff4d107109450d5acb54b63e21ddbc4125c008831ea1b63dd5fb0858a",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        307,
+        508,
+        658,
+        1018
+      ],
+      "width": 351,
+      "height": 510,
+      "content_sha256": "dae238165d0ec36a20d11bc96a98239ce57f07074e34adfcbb066ba3e20a50f2"
+    },
+    {
+      "file": "haruka-holding-phone-touching-earbud-eyes-closed-smiling-04.png",
+      "label": "Holding phone touching earbud eyes closed smiling.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Expressive Phone Sticker Set-7.png",
+      "source": "originals/collage-expressive-phone-stickers-07.png",
+      "source_sha256": "430c284f243932d7c861547eb5267e59bf28e3f3231f95c99c08853864e25dc4",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        597,
+        513,
+        931,
+        1019
+      ],
+      "width": 334,
+      "height": 506,
+      "content_sha256": "1f04efeab80c850e8b86a13d93d53faae4cc6b0f833a8f6234f23f721cd19603"
+    },
+    {
+      "file": "haruka-holding-phone-touching-earbud-eyes-closed-smiling-05.png",
+      "label": "Holding phone touching earbud eyes closed smiling.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Smartphone Expression Sticker Set-5.png",
+      "source": "originals/collage-smartphone-expression-stickers-05.png",
+      "source_sha256": "c078252ab5b007e7138d8dc7a30b9d03b36709b857db0921f88950072ea76419",
+      "row": 1,
+      "column": 5,
+      "crop_box": [
+        1212,
+        0,
+        1536,
+        507
+      ],
+      "width": 324,
+      "height": 507,
+      "content_sha256": "616471d1d4d04f7f3bddd29e2941c4ff2295ab2d950178c821731112bce4e5af"
+    },
+    {
+      "file": "haruka-holding-phone-touching-earbud-eyes-closed-smiling.png",
+      "label": "Holding phone touching earbud eyes closed smiling.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expressions Grid-4.png",
+      "source": "originals/collage-smartphone-expressions-grid.png",
+      "source_sha256": "d1634f371f96afb0b17d740c7c23fc89b5a4f2773bea19303797ac2f76cf2f03",
+      "row": 2,
+      "column": 5,
+      "crop_box": [
+        1033,
+        632,
+        1312,
+        1096
+      ],
+      "width": 279,
+      "height": 464,
+      "content_sha256": "83fb44324c04e8e44d2dcdba5b698fd23b2c628354e48243533d7a54f116a835"
+    },
+    {
+      "file": "haruka-holding-phone-wrapped-in-blanket-cheek-on-hand-smiling.png",
+      "label": "Holding phone wrapped in blanket cheek on hand smiling.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Anime Sticker Pose Collection-11.png",
+      "source": "originals/collage-anime-sticker-pose-collection.png",
+      "source_sha256": "180b4f4b80ebdaf9191a978d24da3de4aa686d54659d34f2de9504bb455e3c4d",
+      "row": 2,
+      "column": 5,
+      "crop_box": [
+        1215,
+        521,
+        1536,
+        1002
+      ],
+      "width": 321,
+      "height": 481,
+      "content_sha256": "cb1eccc591b04ff639cac8d018bd8c5ae1067b0095c737a6bbd98afa14f983df"
+    },
+    {
+      "file": "haruka-holding-phone-yawning-02.png",
+      "label": "Holding phone yawning.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Anime Sticker Pose Collection-11.png",
+      "source": "originals/collage-anime-sticker-pose-collection.png",
+      "source_sha256": "180b4f4b80ebdaf9191a978d24da3de4aa686d54659d34f2de9504bb455e3c4d",
+      "row": 2,
+      "column": 4,
+      "crop_box": [
+        913,
+        523,
+        1235,
+        1002
+      ],
+      "width": 322,
+      "height": 479,
+      "content_sha256": "520e3506820b9d151d5d5f5ff320b5b4615cd7aed214db1583cf7c8fecd1477a"
+    },
+    {
+      "file": "haruka-holding-phone-yawning.png",
+      "label": "Holding phone yawning.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expression Sticker Sheet-8.png",
+      "source": "originals/collage-smartphone-expression-stickers-08.png",
+      "source_sha256": "3631ffcc2ff97a846e9781567d2fe4554b3c4d0a140cc563026732367b6b26f2",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        0,
+        514,
+        331,
+        1013
+      ],
+      "width": 331,
+      "height": 499,
+      "content_sha256": "2636ca974b59e6172c5edec0dc9676a52ecb0e0423473a08c9236c4bb918aa9d"
+    },
+    {
+      "file": "haruka-hugging-phone-eyes-closed-smiling-with-heart-02.png",
+      "label": "Hugging phone eyes closed smiling with heart.",
+      "kind": "collage-crop",
+      "original_filename": "Expressive Anime Phone Sticker Sheet-10.png",
+      "source": "originals/collage-expressive-phone-stickers-10.png",
+      "source_sha256": "447320fff4d107109450d5acb54b63e21ddbc4125c008831ea1b63dd5fb0858a",
+      "row": 1,
+      "column": 4,
+      "crop_box": [
+        901,
+        11,
+        1215,
+        504
+      ],
+      "width": 314,
+      "height": 493,
+      "content_sha256": "01aeb85298f41e10bcc6817819503428183a0aeec5cb42e1ee5a898101d5fe2d"
+    },
+    {
+      "file": "haruka-hugging-phone-eyes-closed-smiling-with-heart-03.png",
+      "label": "Hugging phone eyes closed smiling with heart.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Anime Sticker Pose Collection-11.png",
+      "source": "originals/collage-anime-sticker-pose-collection.png",
+      "source_sha256": "180b4f4b80ebdaf9191a978d24da3de4aa686d54659d34f2de9504bb455e3c4d",
+      "row": 1,
+      "column": 4,
+      "crop_box": [
+        912,
+        13,
+        1227,
+        499
+      ],
+      "width": 315,
+      "height": 486,
+      "content_sha256": "b4c583f1b8f2c091c97b82d90ecf51dcca2c5f4f430209506803222aeb7f7786"
+    },
+    {
+      "file": "haruka-hugging-phone-eyes-closed-smiling-with-heart.png",
+      "label": "Hugging phone eyes closed smiling with heart.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expression Sticker Sheet-6.png",
+      "source": "originals/collage-smartphone-expression-stickers-06.png",
+      "source_sha256": "34bb4d52b923a3b261136d7cea888d2b316a0b14de41486f0e14666ca6ef7d89",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        326,
+        392,
+        642,
+        788
+      ],
+      "width": 316,
+      "height": 396,
+      "content_sha256": "29bf042dc6fdec49dcd903f93dbc66e03e0cb592ce9f961790925a0a164db8ee"
+    },
+    {
+      "file": "haruka-hugging-phone-eyes-closed-smiling-with-hearts-02.png",
+      "label": "Hugging phone eyes closed smiling with hearts.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Hoodie Girl Sticker Sheet-9.png",
+      "source": "originals/collage-hoodie-phone-stickers.png",
+      "source_sha256": "316b9462ca504c3e3f4060694c9a915b4d9957743e99f518bef4c451c1023e13",
+      "row": 1,
+      "column": 4,
+      "crop_box": [
+        905,
+        11,
+        1207,
+        511
+      ],
+      "width": 302,
+      "height": 500,
+      "content_sha256": "3c143d94973e1776d5b9cefb1a20fa800d310898c422c51e9abbcd42073b3918"
+    },
+    {
+      "file": "haruka-hugging-phone-eyes-closed-smiling-with-hearts-03.png",
+      "label": "Hugging phone eyes closed smiling with hearts.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Smartphone Expression Sticker Set-5.png",
+      "source": "originals/collage-smartphone-expression-stickers-05.png",
+      "source_sha256": "c078252ab5b007e7138d8dc7a30b9d03b36709b857db0921f88950072ea76419",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        301,
+        518,
+        615,
+        1017
+      ],
+      "width": 314,
+      "height": 499,
+      "content_sha256": "42dc99f3c4cb95023e58b7fa890223be28403baaac7f50cb01c0ece5daf3cbaa"
+    },
+    {
+      "file": "haruka-hugging-phone-eyes-closed-smiling-with-hearts.png",
+      "label": "Hugging phone eyes closed smiling with hearts.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Girl Smartphone Sticker Set-3.png",
+      "source": "originals/collage-smartphone-sticker-set.png",
+      "source_sha256": "2a64e7185702e28b9d0c9ab0d60a77f4471aa57a7ec50baa688cd426fa693302",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        0,
+        517,
+        338,
+        1020
+      ],
+      "width": 338,
+      "height": 503,
+      "content_sha256": "24314040d1d75e0ebe97923cee853d5250e3e04222fbfa37294eaf72f1c73f7b"
+    },
+    {
+      "file": "haruka-hugging-phone-laughing-with-hearts.png",
+      "label": "Hugging phone laughing with hearts.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expression Sticker Sheet-8.png",
+      "source": "originals/collage-smartphone-expression-stickers-08.png",
+      "source_sha256": "3631ffcc2ff97a846e9781567d2fe4554b3c4d0a140cc563026732367b6b26f2",
+      "row": 1,
+      "column": 4,
+      "crop_box": [
+        893,
+        16,
+        1215,
+        508
+      ],
+      "width": 322,
+      "height": 492,
+      "content_sha256": "02be0b7ebbc7ad67bf91c672cf2ecb97adf0aba615db4bde7ed53b36b7390de3"
+    },
+    {
+      "file": "haruka-index-finger-raised-hand-on-hip-angry.png",
+      "label": "Index finger raised hand on hip angry.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_48_09 AM-5.png",
+      "source": "haruka-index-finger-raised-hand-on-hip-angry.png",
+      "source_sha256": "294f2f83ae984a8edcac6045b7bce37470c4d574f2afd7970adb1b189f6a8cf4",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "294f2f83ae984a8edcac6045b7bce37470c4d574f2afd7970adb1b189f6a8cf4"
+    },
+    {
+      "file": "haruka-index-finger-raised-hand-on-hip-serious.png",
+      "label": "Index finger raised hand on hip serious.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_45_41 AM-5.png",
+      "source": "haruka-index-finger-raised-hand-on-hip-serious.png",
+      "source_sha256": "290b8182c1c6dcd660fb46ce603fd08671e7ea6a59f90e5775dbd5e7b73cd4ee",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "290b8182c1c6dcd660fb46ce603fd08671e7ea6a59f90e5775dbd5e7b73cd4ee"
+    },
+    {
+      "file": "haruka-index-finger-raised-open-palm-smiling-02.png",
+      "label": "One index finger raised and opposite palm open; cheerful explaining smile.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Presentation Sticker Set-2.png",
+      "source": "originals/collage-presentation-sticker-set.png",
+      "source_sha256": "5a361d568b4e1379bc5b5cb03739ec1b89bbe2ef8d1cfd012c6d58224fe439f9",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        376,
+        0,
+        774,
+        504
+      ],
+      "width": 398,
+      "height": 504,
+      "content_sha256": "552f398c947e78817bb9fa62e1b4247ced9aed30a9f6f5a36285a90c26950063"
+    },
+    {
+      "file": "haruka-index-finger-raised-open-palm-smiling.png",
+      "label": "One index finger raised and other palm open; cheerful explaining expression.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_34_20 AM-2.png",
+      "source": "haruka-index-finger-raised-open-palm-smiling.png",
+      "source_sha256": "52c8af0d7a316ff28dc1dab1a416b1f113aa4a645ca0814c8deb82464ba336ca",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "52c8af0d7a316ff28dc1dab1a416b1f113aa4a645ca0814c8deb82464ba336ca"
+    },
+    {
+      "file": "haruka-index-finger-raised-serious.png",
+      "label": "One index finger raised with emphasis marks; serious explaining expression.",
+      "kind": "original-individual",
+      "original_filename": "Haruka’s Important Point-6.png",
+      "source": "haruka-index-finger-raised-serious.png",
+      "source_sha256": "0fdc75e99779e5a6ff640c8a27de88c5f41535e97bb6b6ecbae6c1a55d49d6cc",
+      "width": 1254,
+      "height": 1254,
+      "content_sha256": "0fdc75e99779e5a6ff640c8a27de88c5f41535e97bb6b6ecbae6c1a55d49d6cc"
+    },
+    {
+      "file": "haruka-index-finger-raised-winking-with-lightbulb.png",
+      "label": "One index finger raised and opposite fist at chest; cheerful wink with lightbulb.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Presentation Sticker Set-2.png",
+      "source": "originals/collage-presentation-sticker-set.png",
+      "source_sha256": "5a361d568b4e1379bc5b5cb03739ec1b89bbe2ef8d1cfd012c6d58224fe439f9",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        0,
+        507,
+        383,
+        1017
+      ],
+      "width": 383,
+      "height": 510,
+      "content_sha256": "dec4f872f5b8d588d9ddaa6c2562c799d9ce34acf8ebf28e73eb7f3de46ee473"
+    },
+    {
+      "file": "haruka-index-finger-raised-winking.png",
+      "label": "One index finger raised with emphasis marks; cheerful wink.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Anime Presentation Expressions-3.png",
+      "source": "originals/collage-anime-presentation-expressions.png",
+      "source_sha256": "19dc153f54fbb0da94a5c75a83ad24bb7b7878e0e40c722dfd3c2e74398ed265",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        383,
+        0,
+        766,
+        512
+      ],
+      "width": 383,
+      "height": 512,
+      "content_sha256": "57b633fa8d31750587363f7c2c0ecf6ea43f4ede033d5de4a2bbfbb2d60e9efc"
+    },
+    {
+      "file": "haruka-index-finger-raised-with-clipboard-smiling.png",
+      "label": "One index finger raised while holding clipboard; cheerful explaining smile.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Eight Expressive Presentation Poses-5.png",
+      "source": "originals/collage-eight-expressive-presentation-poses.png",
+      "source_sha256": "809b22b04145e0fb0e1ca105afe838eb7f37506ef39762650cf20ccd3834a204",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        408,
+        0,
+        777,
+        511
+      ],
+      "width": 369,
+      "height": 511,
+      "content_sha256": "37d5d4126f9c4353c8307ef4f89366da5762784346bc24f4c9e609aaac918529"
+    },
+    {
+      "file": "haruka-number-three-sign-open-palm-smiling.png",
+      "label": "Peace sign over opposite open palm; cheerful smile.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Anime Presentation Expressions-3.png",
+      "source": "originals/collage-anime-presentation-expressions.png",
+      "source_sha256": "19dc153f54fbb0da94a5c75a83ad24bb7b7878e0e40c722dfd3c2e74398ed265",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        369,
+        502,
+        743,
+        1024
+      ],
+      "width": 374,
+      "height": 522,
+      "content_sha256": "7abdf0d0376d2643246e36a67c907562ca3dc3fa5ead359ae1b7ddd6cce54408"
+    },
+    {
+      "file": "haruka-open-palm-hand-on-chest-smiling-02.png",
+      "label": "Open palm hand on chest smiling.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_45_44 AM-8.png",
+      "source": "haruka-open-palm-hand-on-chest-smiling-02.png",
+      "source_sha256": "bced3b444906164808debd1132a3dd96f093dc08d88da3796a6f51327936d97b",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "bced3b444906164808debd1132a3dd96f093dc08d88da3796a6f51327936d97b"
+    },
+    {
+      "file": "haruka-open-palm-hand-on-chest-smiling.png",
+      "label": "Presenting with one open palm and other hand on chest; cheerful smile.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_34_19 AM-1.png",
+      "source": "haruka-open-palm-hand-on-chest-smiling.png",
+      "source_sha256": "67b8066018945e09e36a675567a7aba7206adfb09f01b19ca29c8b644a6f13ee",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "67b8066018945e09e36a675567a7aba7206adfb09f01b19ca29c8b644a6f13ee"
+    },
+    {
+      "file": "haruka-palm-forward-fist-raised-serious.png",
+      "label": "Open palm extended toward viewer and opposite fist raised; serious, emphatic expression.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Presentation Sticker Set-2.png",
+      "source": "originals/collage-presentation-sticker-set.png",
+      "source_sha256": "5a361d568b4e1379bc5b5cb03739ec1b89bbe2ef8d1cfd012c6d58224fe439f9",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        776,
+        509,
+        1155,
+        1017
+      ],
+      "width": 379,
+      "height": 508,
+      "content_sha256": "b4fc3c6d15cf94f2f7133b00732f8e03993c6f9fb09fc08c511becbdef6763e8"
+    },
+    {
+      "file": "haruka-palm-forward-serious.png",
+      "label": "Open palm extended toward viewer; serious, emphatic expression.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Eight Expressive Presentation Poses-5.png",
+      "source": "originals/collage-eight-expressive-presentation-poses.png",
+      "source_sha256": "809b22b04145e0fb0e1ca105afe838eb7f37506ef39762650cf20ccd3834a204",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        388,
+        509,
+        765,
+        1024
+      ],
+      "width": 377,
+      "height": 515,
+      "content_sha256": "78c11ab9788d89ff94468a680e8e8edd96028c35c650052f31ab2ffd1f09ca6f"
+    },
+    {
+      "file": "haruka-palms-together-crying-pleading.png",
+      "label": "Palms together crying pleading.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_48_08 AM-4.png",
+      "source": "haruka-palms-together-crying-pleading.png",
+      "source_sha256": "565cbbd0aaa1be54b34c0d9ad9667ee84d56ac52679a2994297650d4b66917f9",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "565cbbd0aaa1be54b34c0d9ad9667ee84d56ac52679a2994297650d4b66917f9"
+    },
+    {
+      "file": "haruka-palms-together-eyes-closed-smiling.png",
+      "label": "Palms pressed together at chest; gentle smile with eyes closed.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Presentation Sticker Set-2.png",
+      "source": "originals/collage-presentation-sticker-set.png",
+      "source_sha256": "5a361d568b4e1379bc5b5cb03739ec1b89bbe2ef8d1cfd012c6d58224fe439f9",
+      "row": 2,
+      "column": 4,
+      "crop_box": [
+        1172,
+        505,
+        1530,
+        1017
+      ],
+      "width": 358,
+      "height": 512,
+      "content_sha256": "d8e512926cc3e91897d9306168562055a3da7cf0089d9f723b973ff104765297"
+    },
+    {
+      "file": "haruka-palms-together-laughing.png",
+      "label": "Palms pressed together at chest; laughing with eyes closed.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Eight Expressive Presentation Poses-5.png",
+      "source": "originals/collage-eight-expressive-presentation-poses.png",
+      "source_sha256": "809b22b04145e0fb0e1ca105afe838eb7f37506ef39762650cf20ccd3834a204",
+      "row": 2,
+      "column": 4,
+      "crop_box": [
+        1164,
+        510,
+        1531,
+        1024
+      ],
+      "width": 367,
+      "height": 514,
+      "content_sha256": "79ddc5e7e3c4cca9bd4990b97040cf8fee018b0bb205b7266bd7fcef4068baeb"
+    },
+    {
+      "file": "haruka-palms-up-smiling-02.png",
+      "label": "Both palms raised outward; cheerful presenting smile.",
+      "kind": "original-individual",
+      "original_filename": "Haruka’s Cheerful Presenting Pose-7.png",
+      "source": "haruka-palms-up-smiling-02.png",
+      "source_sha256": "cb6a9eac7592e692152cbfcf4319cdc45b4f92ec3f6e4cfd659545a3c4ae4f19",
+      "width": 1254,
+      "height": 1254,
+      "content_sha256": "cb6a9eac7592e692152cbfcf4319cdc45b4f92ec3f6e4cfd659545a3c4ae4f19"
+    },
+    {
+      "file": "haruka-palms-up-smiling-03.png",
+      "label": "Both palms raised outward; cheerful smile.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Anime Presentation Expressions-3.png",
+      "source": "originals/collage-anime-presentation-expressions.png",
+      "source_sha256": "19dc153f54fbb0da94a5c75a83ad24bb7b7878e0e40c722dfd3c2e74398ed265",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        708,
+        502,
+        1188,
+        1024
+      ],
+      "width": 480,
+      "height": 522,
+      "content_sha256": "44c4f99c8c4f3e3ac43f09a6c9052eef97e8d6117095cc5015a7bde5a935df5a"
+    },
+    {
+      "file": "haruka-palms-up-smiling-04.png",
+      "label": "Palms up smiling.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_45_39 AM-4.png",
+      "source": "haruka-palms-up-smiling-04.png",
+      "source_sha256": "e6f1e9a450b4dc1be7ca29ff751675d216e52d8082a405264887d128a82bb9dc",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "e6f1e9a450b4dc1be7ca29ff751675d216e52d8082a405264887d128a82bb9dc"
+    },
+    {
+      "file": "haruka-palms-up-smiling.png",
+      "label": "Both palms raised outward; smiling with a sideways glance.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_34_23 AM-5.png",
+      "source": "haruka-palms-up-smiling.png",
+      "source_sha256": "6751dcc2278a2d769c9f89d1c2feb63e40f9563353c7867671bce6c7cfbd2ade",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "6751dcc2278a2d769c9f89d1c2feb63e40f9563353c7867671bce6c7cfbd2ade"
+    },
+    {
+      "file": "haruka-peace-sign-open-palm-smiling.png",
+      "label": "Peace sign over opposite open palm; cheerful smile.",
+      "kind": "original-individual",
+      "original_filename": "haruka-peace-sign-open-palm-smiling.png",
+      "source": "haruka-peace-sign-open-palm-smiling.png",
+      "source_sha256": "365c5bdbe292597a64cb8cc0a6d01dd7fb1db873f33c537b937fca2ce9179403",
+      "width": 1086,
+      "height": 1448,
+      "content_sha256": "365c5bdbe292597a64cb8cc0a6d01dd7fb1db873f33c537b937fca2ce9179403"
+    },
+    {
+      "file": "haruka-phone-to-ear-smiling.png",
+      "label": "Phone to ear smiling.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Girl Smartphone Sticker Set-3.png",
+      "source": "originals/collage-smartphone-sticker-set.png",
+      "source_sha256": "2a64e7185702e28b9d0c9ab0d60a77f4471aa57a7ec50baa688cd426fa693302",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        606,
+        514,
+        931,
+        1020
+      ],
+      "width": 325,
+      "height": 506,
+      "content_sha256": "3752337dde811dccd31c369214c3f05de149ede3485b649664835a747ba92279"
+    },
+    {
+      "file": "haruka-pointing-at-phone-laughing.png",
+      "label": "Pointing at phone laughing.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Hoodie Girl Sticker Sheet-9.png",
+      "source": "originals/collage-hoodie-phone-stickers.png",
+      "source_sha256": "316b9462ca504c3e3f4060694c9a915b4d9957743e99f518bef4c451c1023e13",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        288,
+        517,
+        600,
+        1017
+      ],
+      "width": 312,
+      "height": 500,
+      "content_sha256": "f20a15a92c8bccdf45cdcf3b133e31b6e131bd483cfc62b194629e891b3f3b2b"
+    },
+    {
+      "file": "haruka-pointing-down-open-palm-smiling.png",
+      "label": "Pointing down toward opposite open palm; cheerful smile.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_34_22 AM-4.png",
+      "source": "haruka-pointing-down-open-palm-smiling.png",
+      "source_sha256": "a7537b8637c291d837e95cf83f5ec25ea8f68ea3f4e5ef585fa1b72b6b75b620",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "a7537b8637c291d837e95cf83f5ec25ea8f68ea3f4e5ef585fa1b72b6b75b620"
+    },
+    {
+      "file": "haruka-pointing-sideways-open-palm-smiling.png",
+      "label": "Pointing sideways open palm smiling.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_45_37 AM-2.png",
+      "source": "haruka-pointing-sideways-open-palm-smiling.png",
+      "source_sha256": "3537fd63a47f45ba9bd6fbd03fa968d9f95f51a7e5503d89ffc94f33f5697c15",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "3537fd63a47f45ba9bd6fbd03fa968d9f95f51a7e5503d89ffc94f33f5697c15"
+    },
+    {
+      "file": "haruka-pointing-to-open-palm-smiling-02.png",
+      "label": "Pointing to open palm smiling.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_45_39 AM-3.png",
+      "source": "haruka-pointing-to-open-palm-smiling-02.png",
+      "source_sha256": "27904167ed55f2b78455e1da4b89f7430e338ecf62c3269a6087c31eca550b8a",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "27904167ed55f2b78455e1da4b89f7430e338ecf62c3269a6087c31eca550b8a"
+    },
+    {
+      "file": "haruka-pointing-to-open-palm-smiling.png",
+      "label": "One hand pointing toward opposite open palm; cheerful smile.",
+      "kind": "original-individual",
+      "original_filename": "Cheerful Haruka Presenting with Open Palm-4.png",
+      "source": "haruka-pointing-to-open-palm-smiling.png",
+      "source_sha256": "0bc64859d19c88e09f12fa1d55b8f60e4b2cbea6bec527724b6b04f5aafbef69",
+      "width": 1199,
+      "height": 1312,
+      "content_sha256": "0bc64859d19c88e09f12fa1d55b8f60e4b2cbea6bec527724b6b04f5aafbef69"
+    },
+    {
+      "file": "haruka-reaching-out-with-clipboard-smiling-02.png",
+      "label": "One palm extended toward viewer while holding clipboard; cheerful smile.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Presentation Sticker Set-2.png",
+      "source": "originals/collage-presentation-sticker-set.png",
+      "source_sha256": "5a361d568b4e1379bc5b5cb03739ec1b89bbe2ef8d1cfd012c6d58224fe439f9",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        2,
+        0,
+        386,
+        503
+      ],
+      "width": 384,
+      "height": 503,
+      "content_sha256": "95d05d6b54b6e996f555946aabf5dc6d4661326a64b36e159ec4829c98d7aaf8"
+    },
+    {
+      "file": "haruka-reaching-out-with-clipboard-smiling.png",
+      "label": "One palm extended toward viewer while holding clipboard; cheerful smile.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Anime Presentation Expressions-3.png",
+      "source": "originals/collage-anime-presentation-expressions.png",
+      "source_sha256": "19dc153f54fbb0da94a5c75a83ad24bb7b7878e0e40c722dfd3c2e74398ed265",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        0,
+        0,
+        411,
+        512
+      ],
+      "width": 411,
+      "height": 512,
+      "content_sha256": "7e2df209d254fab2c57cb512c461e7ee0fb1003ca2655a4103faa6d4ba75bb0b"
+    },
+    {
+      "file": "haruka-rubbing-eye-sleepy.png",
+      "label": "Rubbing one eye; sleepy, yawning expression.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_34_03 AM-8.png",
+      "source": "haruka-rubbing-eye-sleepy.png",
+      "source_sha256": "a22805ebed2e281d01a5648fd79c6d69a992e3691e24a96fc6fba680dffc94b9",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "a22805ebed2e281d01a5648fd79c6d69a992e3691e24a96fc6fba680dffc94b9"
+    },
+    {
+      "file": "haruka-selfie-peace-sign-winking-02.png",
+      "label": "Selfie peace sign winking.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Expression Sticker Sheet-6.png",
+      "source": "originals/collage-smartphone-expression-stickers-06.png",
+      "source_sha256": "34bb4d52b923a3b261136d7cea888d2b316a0b14de41486f0e14666ca6ef7d89",
+      "row": 3,
+      "column": 2,
+      "crop_box": [
+        508,
+        775,
+        961,
+        1199
+      ],
+      "width": 453,
+      "height": 424,
+      "content_sha256": "5203bfc5cac04a6a732f38ced35bb768791fde7c066eca4aeeeb789de05eba9e"
+    },
+    {
+      "file": "haruka-selfie-peace-sign-winking-03.png",
+      "label": "Selfie peace sign winking.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Expressive Phone Sticker Sheet-1.png",
+      "source": "originals/collage-expressive-phone-stickers-01.png",
+      "source_sha256": "88d027c616bcda7dfcc544760c4495c1f6950834e7b9a90b248a7b68a0cfc48e",
+      "row": 2,
+      "column": 5,
+      "crop_box": [
+        1192,
+        544,
+        1536,
+        1006
+      ],
+      "width": 344,
+      "height": 462,
+      "content_sha256": "ac04bb7325e51dacdf60f35a48cd8867b913bb26cecd8fc4243c9d7edf48fa2b"
+    },
+    {
+      "file": "haruka-selfie-peace-sign-winking.png",
+      "label": "Selfie peace sign winking.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Girl Smartphone Sticker Set-3.png",
+      "source": "originals/collage-smartphone-sticker-set.png",
+      "source_sha256": "2a64e7185702e28b9d0c9ab0d60a77f4471aa57a7ec50baa688cd426fa693302",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        261,
+        519,
+        630,
+        1018
+      ],
+      "width": 369,
+      "height": 499,
+      "content_sha256": "95d7b0657b9c65d506771058b64b8cc6b1e27c594955e13530dca735713dd33d"
+    },
+    {
+      "file": "haruka-showing-phone-screen-pointing-smiling-02.png",
+      "label": "Showing phone screen pointing smiling.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Expressive Phone Sticker Set-7.png",
+      "source": "originals/collage-expressive-phone-stickers-07.png",
+      "source_sha256": "430c284f243932d7c861547eb5267e59bf28e3f3231f95c99c08853864e25dc4",
+      "row": 2,
+      "column": 4,
+      "crop_box": [
+        899,
+        510,
+        1228,
+        1019
+      ],
+      "width": 329,
+      "height": 509,
+      "content_sha256": "30219d61a0eabe8e2f5324b1379cd11d1d6b8ad68f1225a90617c19f34a776f9"
+    },
+    {
+      "file": "haruka-showing-phone-screen-pointing-smiling.png",
+      "label": "Showing phone screen pointing smiling.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Smartphone Sticker Girl Portraits-12.png",
+      "source": "originals/collage-smartphone-sticker-portraits.png",
+      "source_sha256": "b4e8ef78cd0734e3398980657ca86804a0a8d783e5deba71580ff3dc5a457d68",
+      "row": 2,
+      "column": 4,
+      "crop_box": [
+        771,
+        627,
+        1065,
+        1115
+      ],
+      "width": 294,
+      "height": 488,
+      "content_sha256": "2623013ad949d42080aa2de3aff75bc33d7b167533bb92f7280552c599d25763"
+    },
+    {
+      "file": "haruka-three-fingers-open-palm-smiling.png",
+      "label": "Three fingers raised over opposite open palm; cheerful smile.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_34_25 AM-8.png",
+      "source": "haruka-three-fingers-open-palm-smiling.png",
+      "source_sha256": "c48bfc31d6cc5f06defc19adb64889ea4ff843872cf52c3bf48cdf022105a33b",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "c48bfc31d6cc5f06defc19adb64889ea4ff843872cf52c3bf48cdf022105a33b"
+    },
+    {
+      "file": "haruka-three-fingers-pointing-smiling-02.png",
+      "label": "Three fingers raised with opposite index finger pointing at them; gentle closed-mouth smile.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Presentation Sticker Set-2.png",
+      "source": "originals/collage-presentation-sticker-set.png",
+      "source_sha256": "5a361d568b4e1379bc5b5cb03739ec1b89bbe2ef8d1cfd012c6d58224fe439f9",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        369,
+        506,
+        776,
+        1017
+      ],
+      "width": 407,
+      "height": 511,
+      "content_sha256": "59c5098c65ff22c4c0aab1905ac036406c97462e691481405dd1d69efd711827"
+    },
+    {
+      "file": "haruka-three-fingers-pointing-smiling.png",
+      "label": "Three fingers raised with opposite index finger pointing at them; cheerful smile.",
+      "kind": "collage-crop",
+      "original_filename": "Haruka’s Eight Expressive Presentation Poses-5.png",
+      "source": "originals/collage-eight-expressive-presentation-poses.png",
+      "source_sha256": "809b22b04145e0fb0e1ca105afe838eb7f37506ef39762650cf20ccd3834a204",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        0,
+        508,
+        394,
+        1024
+      ],
+      "width": 394,
+      "height": 516,
+      "content_sha256": "1809f81402567cc8571594743449032de65c994626fc7283dbdd08a4e3a0be90"
+    },
+    {
+      "file": "haruka-thumbs-up-open-palm-smiling-02.png",
+      "label": "Thumbs up open palm smiling.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_45_43 AM-7.png",
+      "source": "haruka-thumbs-up-open-palm-smiling-02.png",
+      "source_sha256": "e4411f998a8af604ad2eb1b86bb0eac58cad3b5c05e934e0d55620fa4e21a3e2",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "e4411f998a8af604ad2eb1b86bb0eac58cad3b5c05e934e0d55620fa4e21a3e2"
+    },
+    {
+      "file": "haruka-thumbs-up-open-palm-smiling.png",
+      "label": "Thumbs-up and opposite palm presenting; cheerful smile.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_34_24 AM-7.png",
+      "source": "haruka-thumbs-up-open-palm-smiling.png",
+      "source_sha256": "22b6335a5e7742027f41b6236b39c20df2adec3d45c46c704449771a5ec44f78",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "22b6335a5e7742027f41b6236b39c20df2adec3d45c46c704449771a5ec44f78"
+    },
+    {
+      "file": "haruka-thumbs-up-winking.png",
+      "label": "Thumbs-up with other hand on hip; cheerful wink.",
+      "kind": "original-individual",
+      "original_filename": "Cheerful Winking Thumbs-Up Anime Girl-8.png",
+      "source": "haruka-thumbs-up-winking.png",
+      "source_sha256": "a981c618e7e88ea05d325ee0d8719b85d1076d28182e98b4e3d3ddd32e6d9db3",
+      "width": 1199,
+      "height": 1312,
+      "content_sha256": "a981c618e7e88ea05d325ee0d8719b85d1076d28182e98b4e3d3ddd32e6d9db3"
+    },
+    {
+      "file": "haruka-waving-smiling-02.png",
+      "label": "One hand waving beside face with yellow emphasis marks; cheerful smile.",
+      "kind": "original-individual",
+      "original_filename": "Cheerful Anime Girl Waving in Yellow Hoodie-1.png",
+      "source": "haruka-waving-smiling-02.png",
+      "source_sha256": "41c327413d1aa63108f81099950b2b23d52bc6f1e34f72af071c74115ea212e4",
+      "width": 1254,
+      "height": 1254,
+      "content_sha256": "41c327413d1aa63108f81099950b2b23d52bc6f1e34f72af071c74115ea212e4"
+    },
+    {
+      "file": "haruka-waving-smiling.png",
+      "label": "Waving with one hand, holding hoodie with the other; cheerful open smile.",
+      "kind": "original-individual",
+      "original_filename": "ChatGPT Image Nov 14, 2026, 11_33_55 AM-1.png",
+      "source": "haruka-waving-smiling.png",
+      "source_sha256": "606de9bf6cacf1b1f952e5f445d60e2af9941fde4a554c29209bf5238c4bdfe2",
+      "width": 1122,
+      "height": 1402,
+      "content_sha256": "606de9bf6cacf1b1f952e5f445d60e2af9941fde4a554c29209bf5238c4bdfe2"
+    },
+    {
+      "file": "haruka-at-laptop-both-fists-raised-laughing.png",
+      "label": "Both fists raised behind a laptop with a mug; laughing with eyes closed.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Girl Laptop Work Sticker Set.png",
+      "source": "originals/collage-laptop-work-stickers.png",
+      "source_sha256": "741fd0db6c9c9b0a3b12f3a53a4b4ed551f3e7b37e26cffd8f5ace825236b14c",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        0,
+        13,
+        387,
+        526
+      ],
+      "width": 387,
+      "height": 513,
+      "content_sha256": "51cd582186a7fd274b0a015ee865b4fd9b1e2a944846dbf83e5200c517bc37fe"
+    },
+    {
+      "file": "haruka-at-laptop-hand-on-chin-focused.png",
+      "label": "Hand beneath chin behind laptop; focused, serious expression.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Girl Laptop Work Sticker Set.png",
+      "source": "originals/collage-laptop-work-stickers.png",
+      "source_sha256": "741fd0db6c9c9b0a3b12f3a53a4b4ed551f3e7b37e26cffd8f5ace825236b14c",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        380,
+        0,
+        777,
+        523
+      ],
+      "width": 397,
+      "height": 523,
+      "content_sha256": "d5c76f4f0539b14acfdca676666b5e2dfa622c80df083721a574192b59214374"
+    },
+    {
+      "file": "haruka-at-laptop-pen-to-lips-inspired-with-lightbulb.png",
+      "label": "Pen held near lips behind laptop; thoughtful upward gaze with a lightbulb.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Girl Laptop Work Sticker Set.png",
+      "source": "originals/collage-laptop-work-stickers.png",
+      "source_sha256": "741fd0db6c9c9b0a3b12f3a53a4b4ed551f3e7b37e26cffd8f5ace825236b14c",
+      "row": 1,
+      "column": 3,
+      "crop_box": [
+        763,
+        8,
+        1143,
+        522
+      ],
+      "width": 380,
+      "height": 514,
+      "content_sha256": "9fafc9413a7dc7aef50aed14f8a90bc558b2ce3fa1e89406e6769151931a5fbc"
+    },
+    {
+      "file": "haruka-at-laptop-wearing-glasses-smiling.png",
+      "label": "Wearing round glasses behind laptop with books and sticky notes; gentle smile.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Girl Laptop Work Sticker Set.png",
+      "source": "originals/collage-laptop-work-stickers.png",
+      "source_sha256": "741fd0db6c9c9b0a3b12f3a53a4b4ed551f3e7b37e26cffd8f5ace825236b14c",
+      "row": 1,
+      "column": 4,
+      "crop_box": [
+        1138,
+        0,
+        1536,
+        530
+      ],
+      "width": 398,
+      "height": 530,
+      "content_sha256": "3b4bf9aa7d135e6ba4cd562c75d5d0348914be6824d9aceb430778c138d815e6"
+    },
+    {
+      "file": "haruka-at-laptop-hand-over-mouth-yawning.png",
+      "label": "Hand over mouth behind laptop with mug; sleepy yawn with sleep symbols.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Girl Laptop Work Sticker Set.png",
+      "source": "originals/collage-laptop-work-stickers.png",
+      "source_sha256": "741fd0db6c9c9b0a3b12f3a53a4b4ed551f3e7b37e26cffd8f5ace825236b14c",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        0,
+        513,
+        408,
+        1024
+      ],
+      "width": 408,
+      "height": 511,
+      "content_sha256": "1ef747e066b921ce3ebd4f57087d0e4e2d2803343bfce6929b4e2caa48072fa3"
+    },
+    {
+      "file": "haruka-at-laptop-head-on-folded-arms-tired.png",
+      "label": "Head resting on folded arms behind laptop; tired, half-lidded expression.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Girl Laptop Work Sticker Set.png",
+      "source": "originals/collage-laptop-work-stickers.png",
+      "source_sha256": "741fd0db6c9c9b0a3b12f3a53a4b4ed551f3e7b37e26cffd8f5ace825236b14c",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        384,
+        552,
+        771,
+        1024
+      ],
+      "width": 387,
+      "height": 472,
+      "content_sha256": "7d7185f9afda5a29787933929b87e601c5b5c5b79637ede310fec7227d245e74"
+    },
+    {
+      "file": "haruka-at-laptop-hands-on-head-overwhelmed.png",
+      "label": "Both hands on head behind laptop with books and sticky notes; overwhelmed spiral eyes.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Girl Laptop Work Sticker Set.png",
+      "source": "originals/collage-laptop-work-stickers.png",
+      "source_sha256": "741fd0db6c9c9b0a3b12f3a53a4b4ed551f3e7b37e26cffd8f5ace825236b14c",
+      "row": 2,
+      "column": 3,
+      "crop_box": [
+        740,
+        513,
+        1174,
+        1024
+      ],
+      "width": 434,
+      "height": 511,
+      "content_sha256": "c1a06eeee122261ee78fcf69ed2bd6e4edda344dd04027dcd2b91d7b33784e54"
+    },
+    {
+      "file": "haruka-at-laptop-eyes-closed-relieved.png",
+      "label": "Leaning back behind laptop with mug and pen holder; relieved smile with eyes closed.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Girl Laptop Work Sticker Set.png",
+      "source": "originals/collage-laptop-work-stickers.png",
+      "source_sha256": "741fd0db6c9c9b0a3b12f3a53a4b4ed551f3e7b37e26cffd8f5ace825236b14c",
+      "row": 2,
+      "column": 4,
+      "crop_box": [
+        1146,
+        522,
+        1536,
+        1024
+      ],
+      "width": 390,
+      "height": 502,
+      "content_sha256": "1addf9b6965bbaa5bd66cbb60ea63108b94fcd0f9447eba7ce3861cc329281a1"
+    },
+    {
+      "file": "haruka-at-laptop-hand-on-chin-focused-02.png",
+      "label": "Hand beneath chin behind laptop; focused expression with yellow emphasis marks.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Laptop Mood Sticker Sheet.png",
+      "source": "originals/collage-laptop-mood-stickers.png",
+      "source_sha256": "aab5b15622b2e1e83f006bb7eff152998dd892c20dd091c095548c1f94e755cb",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        459,
+        0,
+        1022,
+        618
+      ],
+      "width": 563,
+      "height": 618,
+      "content_sha256": "d4e6685ff4a66a3d2658b56e7cc2b31a04191ba0b047e03fdad39032feba2a34"
+    },
+    {
+      "file": "haruka-at-laptop-cheek-on-hand-sleeping.png",
+      "label": "Cheek resting on one hand behind laptop; sleeping with drool and sleep symbols.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Laptop Mood Sticker Sheet.png",
+      "source": "originals/collage-laptop-mood-stickers.png",
+      "source_sha256": "aab5b15622b2e1e83f006bb7eff152998dd892c20dd091c095548c1f94e755cb",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        10,
+        432,
+        651,
+        1024
+      ],
+      "width": 641,
+      "height": 592,
+      "content_sha256": "55503609f866547bc4afbddb78100a61c2f15b333f4e6c9bde209d3957be637c"
+    },
+    {
+      "file": "haruka-at-laptop-hands-on-head-frustrated.png",
+      "label": "Both hands on head behind laptop; eyes squeezed shut in frustration with sweat and scribble symbols.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Laptop Mood Sticker Sheet.png",
+      "source": "originals/collage-laptop-mood-stickers.png",
+      "source_sha256": "aab5b15622b2e1e83f006bb7eff152998dd892c20dd091c095548c1f94e755cb",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        867,
+        425,
+        1527,
+        1024
+      ],
+      "width": 660,
+      "height": 599,
+      "content_sha256": "424281407951c98e43fc406a9451d4bc82cdb5da7ec95c571df846b592904d9a"
+    },
+    {
+      "file": "haruka-at-laptop-hand-on-chin-focused-03.png",
+      "label": "Hand beneath chin behind laptop with mug and books; focused, serious expression.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Laptop Workday Sticker Trio.png",
+      "source": "originals/collage-laptop-workday-trio.png",
+      "source_sha256": "0f26c94c7334df1e876cf7b24f29969b27783d5db9aa3c00b3b35e97473ce9b1",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        19,
+        0,
+        604,
+        594
+      ],
+      "width": 585,
+      "height": 594,
+      "content_sha256": "eb49e96f6bfaca119a094bf02acf952d4b7cbb98f2febb04447c2c7640212edc"
+    },
+    {
+      "file": "haruka-at-laptop-cheek-on-hand-yawning.png",
+      "label": "Cheek resting on one hand behind laptop with mug; sleepy open mouth and sleep symbols.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Laptop Workday Sticker Trio.png",
+      "source": "originals/collage-laptop-workday-trio.png",
+      "source_sha256": "0f26c94c7334df1e876cf7b24f29969b27783d5db9aa3c00b3b35e97473ce9b1",
+      "row": 1,
+      "column": 2,
+      "crop_box": [
+        926,
+        0,
+        1510,
+        597
+      ],
+      "width": 584,
+      "height": 597,
+      "content_sha256": "e4d0146005a655a9b8624c80283586419f9abca5184875e11fc2a1d541777e67"
+    },
+    {
+      "file": "haruka-at-laptop-hands-on-head-frustrated-02.png",
+      "label": "Both hands on head behind laptop with books and paperwork; frustrated expression with scribble and lightning symbols.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Laptop Workday Sticker Trio.png",
+      "source": "originals/collage-laptop-workday-trio.png",
+      "source_sha256": "0f26c94c7334df1e876cf7b24f29969b27783d5db9aa3c00b3b35e97473ce9b1",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        329,
+        432,
+        1200,
+        1024
+      ],
+      "width": 871,
+      "height": 592,
+      "content_sha256": "f08c7d32a6c8332192fc99584e3a2796cc10c6bc38b07c1a47bca1117d888b04"
+    },
+    {
+      "file": "haruka-at-laptop-hand-on-chin-focused-with-study-supplies.png",
+      "label": "Hand beneath chin behind laptop surrounded by books, mug, checklist, and pens; focused expression.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Study Mode Sticker Sheet.png",
+      "source": "originals/collage-study-mode-stickers.png",
+      "source_sha256": "24d146ffccd7bdbfe481fffe1642c45a33b1c1c8542440b629a0f28cff2e9274",
+      "row": 1,
+      "column": 1,
+      "crop_box": [
+        250,
+        0,
+        1261,
+        551
+      ],
+      "width": 1011,
+      "height": 551,
+      "content_sha256": "73ebe4e52ed5a4e5805c1f5e351cc79e2558e60b2ceca161f3bc748e3dfdc23f"
+    },
+    {
+      "file": "haruka-at-laptop-cheek-on-hand-covering-yawn.png",
+      "label": "Cheek resting on one hand while the other covers a yawn; laptop, books, mug, and sleep symbols.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Study Mode Sticker Sheet.png",
+      "source": "originals/collage-study-mode-stickers.png",
+      "source_sha256": "24d146ffccd7bdbfe481fffe1642c45a33b1c1c8542440b629a0f28cff2e9274",
+      "row": 2,
+      "column": 1,
+      "crop_box": [
+        7,
+        544,
+        740,
+        1024
+      ],
+      "width": 733,
+      "height": 480,
+      "content_sha256": "5cad37c0f89fe4b532ec89c94e528f8ee15dbb5da872cbc0ffac02a88a53c863"
+    },
+    {
+      "file": "haruka-at-laptop-hands-on-head-overwhelmed-with-paperwork.png",
+      "label": "Both hands on head behind laptop with coffee, books, and crumpled paperwork; overwhelmed spiral eyes.",
+      "kind": "collage-crop",
+      "original_filename": "Anime Study Mode Sticker Sheet.png",
+      "source": "originals/collage-study-mode-stickers.png",
+      "source_sha256": "24d146ffccd7bdbfe481fffe1642c45a33b1c1c8542440b629a0f28cff2e9274",
+      "row": 2,
+      "column": 2,
+      "crop_box": [
+        789,
+        530,
+        1528,
+        1024
+      ],
+      "width": 739,
+      "height": 494,
+      "content_sha256": "d762a1f5914a2804acd3f9a5631370cb51d02aa888f4650630d9238805809b70"
+    }
+  ]
+}
